@@ -32,7 +32,7 @@ self.addEventListener('activate', function(event) {
 
 this.addEventListener('fetch', function(event) {
   // console.log(event);
-  // console.log(event.request);
+  console.log(event.request);
 
   // var response;
   // event.respondWith(caches.match(event.request).catch(function() {
