@@ -1,3 +1,32 @@
+html, body {
+  height: 100%;
+}
 #sec-header {
-  background-color: #029f5b;
+  /*background-color: #357ebd;
+  color: #c8e5bc;*/
+}
+
+#sec-body {
+
+}
+
+#formPart {
+  padding-top: 2em;
+  background: #d9edf7;
+  height: 100vh;
+}
+
+#infoPart {
+  padding-top: 2em;
+  background: #d5f5f6;
+  height: 98vh;
+}
+
+.bodyPart {
+
+}
+
+#indicatorPart {
+  background: #edf0c1;
+  height: 3vh;
 }
