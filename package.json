@@ -1,0 +1,21 @@
+{
+    "name": "public-transportation-app",
+    "version": "0.0.1",
+    "description": "Simple public transportation app for senior web developer nanodegree program in udacity",
+    "keywords": ["transportation", "public", "app", "frontend"],
+    "repository": "https://github.com/sebkim/publicTransportationAppFrontend.git",
+    "homepage": "https://github.com/sebkim/publicTransportationAppFrontend/",
+    "author": "Sebo Kim <sebkim85@gmail.com>",
+    "dependencies": {
+        "gulp-clean-css": ">=2.0.8",
+        "gulp-uglify": ">=1.5.3",
+        "gulp-htmlmin": ">=2.0.0",
+        "gulp": ">=3.9.1",
+        "gulp-rename": ">=1.2.2",
+        "gulp-concat": ">=2.6.0",
+        "gulp-watch": ">=4.3.6"
+    },
+    "scripts": {
+        "minifyAll": "gulp"
+    }
+}
