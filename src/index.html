@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Public Transportation App Frontend </title>
+  <!-- <script defer src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.3/jquery.min.js"></script> -->
+  <script defer src="bower_components/jquery/dist/jquery.min.js"></script>
+  <!-- <script defer src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.15.0/jquery.validate.min.js"></script> -->
+  <script defer src="js/index.js"></script>
+  <!-- <script defer src="js/index.min.js"></script> -->
+  <script defer src="js/app.js"></script>
+  <!-- <script defer src="js/app.min.js"></script> -->
+  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"> -->
+  <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css"> 
+
+  <link rel="stylesheet" href="css/index.css">
+  <!-- <link rel="stylesheet" href="css/index.min.css"> -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+  <section id="sec-header">
+    <div class="jumbotron text-center" style="margin: 0px;">
+      <h1>Public Transportaion App</h1>
+    </div>
+  </section>
+
+  <section id="sec-body">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-xs-4 bodyPart" id="formPart">
+          <form id="search-form" action="" method="get" role="form" style="display: block;" autocomplete="on">
+            <div class="form-group">
+              <label for="departure"><span>Departure</span></label>
+              <input type="text" name="departure" id="departure" tabindex="1" class="form-control" value="" autofocus >
+            </div>
+            <div class="form-group">
+              <label for="arrival"><span>Arrival</span></label>
+              <input type="text" name="arrival" id="arrival" tabindex="2" class="form-control" value="" >
+            </div>
+            <div class="form-group">
+              <label for="timeafter"><span>Time After</span></label>
+              <input type="time" name="timeafter" id="timeafter" tabindex="3" class="form-control"  >
+            </div>
+
+            <div class="form-group">
+              <div class="row">
+                <div class="col-sm-6 col-sm-offset-3">
+                  <label for="search-submit"><span class="sr-only">Search</span></label>
+                  <input type="submit" name="search-submit" id="search-submit" tabindex="4" class="form-control btn btn-primary" value="Search">
+                </div>
+              </div>
+            </div>
+          </form>
+        </div>
+
+        <div class="col-xs-8 bodyPart">
+          <div class="row">
+            <div class="col-xs-12 text-right" id="indicatorPart">
+              <p id="indicatorP">offline indicator</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12" id="infoPart">
+              <p>test2</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</body>
+
+</html>
