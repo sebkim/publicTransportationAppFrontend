@@ -1,7 +1,7 @@
 // register service worker
 
 if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('/github/publicTransportationAppFrontend/src/sw.js', { scope: '/github/publicTransportationAppFrontend/src/' }).then(function(reg) {
+  navigator.serviceWorker.register('/publicTransportationAppFrontend/src/sw.js', { scope: '/publicTransportationAppFrontend/src/' }).then(function(reg) {
 
     if(reg.installing) {
       console.log('Service worker installing');

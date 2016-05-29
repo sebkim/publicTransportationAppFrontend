@@ -2,10 +2,10 @@ this.addEventListener('install', function(event) {
   event.waitUntil(
     caches.open('v1').then(function(cache) {
       return cache.addAll([
-        '/github/publicTransportationAppFrontend/src/',
-        '/github/publicTransportationAppFrontend/src/index.html',
-        '/github/publicTransportationAppFrontend/src/bower_components/jquery/dist/jquery.min.js',
-        '/github/publicTransportationAppFrontend/src/bower_components/bootstrap/dist/css/bootstrap.min.css'
+        '/publicTransportationAppFrontend/src/',
+        '/publicTransportationAppFrontend/src/index.html',
+        '/publicTransportationAppFrontend/src/bower_components/jquery/dist/jquery.min.js',
+        '/publicTransportationAppFrontend/src/bower_components/bootstrap/dist/css/bootstrap.min.css'
         // '/github/sw-test/star-wars-logo.jpg',
         // '/github/sw-test/gallery/bountyHunters.jpg',
         // '/github/sw-test/gallery/myLittleVader.jpg'
