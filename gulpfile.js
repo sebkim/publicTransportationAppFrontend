@@ -6,10 +6,12 @@ var uglify = require('gulp-uglify');
 var concat = require('gulp-concat');
 var ghPages = require('gulp-gh-pages');
 
-gulp.task('deploy', function() {
-  return gulp.src('./**/*')
-    .pipe(ghPages());
-});
+// gulp.task('deploy', function() {
+//   return gulp.src('./**/*')
+//     .pipe(ghPages());
+// });
+
+
 
 // gulp.task('minify-html', function() {
 //   return gulp.src('*.html')

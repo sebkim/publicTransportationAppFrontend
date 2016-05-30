@@ -1,0 +1,1142 @@
+[
+  {
+    "_id": "574c0966b47e2662450554dd",
+    "stop_id": "777403",
+    "stop_code": "777403",
+    "stop_name": "Tamien Caltrain Station",
+    "stop_lat": 37.311638,
+    "stop_lon": -121.883403,
+    "zone_id": "4",
+    "stop_url": "http://www.caltrain.com/stations/tamienstation.html",
+    "location_type": 0,
+    "parent_station": "ctta",
+    "platform_code": "",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -121.883403,
+      37.311638
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554dc",
+    "stop_id": "777402",
+    "stop_code": "777402",
+    "stop_name": "San Jose Caltrain Station",
+    "stop_lat": 37.330196,
+    "stop_lon": -121.901985,
+    "zone_id": "4",
+    "stop_url": "http://www.caltrain.com/stations/sanjosediridonstation.html",
+    "location_type": 0,
+    "parent_station": "ctsj",
+    "platform_code": "",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -121.901985,
+      37.330196
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554ce",
+    "stop_id": "70261",
+    "stop_code": "70261",
+    "stop_name": "San Jose Diridon Caltrain",
+    "stop_lat": 37.329239,
+    "stop_lon": -121.903011,
+    "zone_id": "4",
+    "stop_url": "http://www.caltrain.com/stations/sanjosediridonstation.html",
+    "location_type": 0,
+    "parent_station": "ctsj",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -121.903011,
+      37.329239
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554ca",
+    "stop_id": "70241",
+    "stop_code": "70241",
+    "stop_name": "Santa Clara Caltrain",
+    "stop_lat": 37.353238,
+    "stop_lon": -121.93608,
+    "zone_id": "4",
+    "stop_url": "http://www.caltrain.com/stations/santaclarastation.html",
+    "location_type": 0,
+    "parent_station": "ctscl",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -121.93608,
+      37.353238
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554c8",
+    "stop_id": "70231",
+    "stop_code": "70231",
+    "stop_name": "Lawrence Caltrain",
+    "stop_lat": 37.370598,
+    "stop_lon": -121.997114,
+    "zone_id": "4",
+    "stop_url": "http://www.caltrain.com/stations/lawrencestation.html",
+    "location_type": 0,
+    "parent_station": "ctla",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -121.997114,
+      37.370598
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554c6",
+    "stop_id": "70221",
+    "stop_code": "70221",
+    "stop_name": "Sunnyvale Caltrain",
+    "stop_lat": 37.378916,
+    "stop_lon": -122.031372,
+    "zone_id": "3",
+    "stop_url": "http://www.caltrain.com/stations/sunnyvalestation.html",
+    "location_type": 0,
+    "parent_station": "ctsu",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.031372,
+      37.378916
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554c4",
+    "stop_id": "70211",
+    "stop_code": "70211",
+    "stop_name": "Mt View Caltrain",
+    "stop_lat": 37.394459,
+    "stop_lon": -122.075956,
+    "zone_id": "3",
+    "stop_url": "http://www.caltrain.com/stations/mountainviewstation.html",
+    "location_type": 0,
+    "parent_station": "ctmv",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.075956,
+      37.394459
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554c2",
+    "stop_id": "70201",
+    "stop_code": "70201",
+    "stop_name": "San Antonio Caltrain",
+    "stop_lat": 37.407323,
+    "stop_lon": -122.107069,
+    "zone_id": "3",
+    "stop_url": "http://www.caltrain.com/stations/sanantoniostation.html",
+    "location_type": 0,
+    "parent_station": "ctsa",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.107069,
+      37.407323
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554c0",
+    "stop_id": "70191",
+    "stop_code": "70191",
+    "stop_name": "California Ave Caltrain",
+    "stop_lat": 37.429365,
+    "stop_lon": -122.141927,
+    "zone_id": "3",
+    "stop_url": "http://www.caltrain.com/stations/californiaavenuestation.html",
+    "location_type": 0,
+    "parent_station": "ctca",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.141927,
+      37.429365
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554be",
+    "stop_id": "70171",
+    "stop_code": "70171",
+    "stop_name": "Palo Alto Caltrain",
+    "stop_lat": 37.443475,
+    "stop_lon": -122.164614,
+    "zone_id": "3",
+    "stop_url": "http://www.caltrain.com/stations/paloaltostation.html",
+    "location_type": 0,
+    "parent_station": "ctpa",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.164614,
+      37.443475
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554bc",
+    "stop_id": "70161",
+    "stop_code": "70161",
+    "stop_name": "Menlo Park Caltrain",
+    "stop_lat": 37.454856,
+    "stop_lon": -122.182297,
+    "zone_id": "3",
+    "stop_url": "http://www.caltrain.com/stations/menloparkstation.html",
+    "location_type": 0,
+    "parent_station": "ctmp",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.182297,
+      37.454856
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554ba",
+    "stop_id": "70151",
+    "stop_code": "70151",
+    "stop_name": "Atherton Caltrain",
+    "stop_lat": 37.464645,
+    "stop_lon": -122.19779,
+    "zone_id": "3",
+    "stop_url": "http://www.caltrain.com/stations/athertonstation.html",
+    "location_type": 0,
+    "parent_station": "ctat",
+    "platform_code": "NB",
+    "wheelchair_boarding": 2,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.19779,
+      37.464645
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554b8",
+    "stop_id": "70141",
+    "stop_code": "70141",
+    "stop_name": "Redwood City Caltrain",
+    "stop_lat": 37.486159,
+    "stop_lon": -122.231936,
+    "zone_id": "2",
+    "stop_url": "http://www.caltrain.com/stations/redwoodcitystation.html",
+    "location_type": 0,
+    "parent_station": "ctrwc",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.231936,
+      37.486159
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554b6",
+    "stop_id": "70131",
+    "stop_code": "70131",
+    "stop_name": "San Carlos Caltrain",
+    "stop_lat": 37.50805,
+    "stop_lon": -122.26015,
+    "zone_id": "2",
+    "stop_url": "http://www.caltrain.com/stations/sancarlosstation.html",
+    "location_type": 0,
+    "parent_station": "ctsc",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.26015,
+      37.50805
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554b4",
+    "stop_id": "70121",
+    "stop_code": "70121",
+    "stop_name": "Belmont Caltrain",
+    "stop_lat": 37.52089,
+    "stop_lon": -122.275738,
+    "zone_id": "2",
+    "stop_url": "http://www.caltrain.com/stations/belmontstation.html",
+    "location_type": 0,
+    "parent_station": "ctbe",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.275738,
+      37.52089
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554b2",
+    "stop_id": "70111",
+    "stop_code": "70111",
+    "stop_name": "Hillsdale Caltrain",
+    "stop_lat": 37.537868,
+    "stop_lon": -122.297349,
+    "zone_id": "2",
+    "stop_url": "http://www.caltrain.com/stations/hillsdalestation.html",
+    "location_type": 0,
+    "parent_station": "cthi",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.297349,
+      37.537868
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554b0",
+    "stop_id": "70101",
+    "stop_code": "70101",
+    "stop_name": "Hayward Park Caltrain",
+    "stop_lat": 37.552938,
+    "stop_lon": -122.309338,
+    "zone_id": "2",
+    "stop_url": "http://www.caltrain.com/stations/haywardparkstation.html",
+    "location_type": 0,
+    "parent_station": "ctha",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.309338,
+      37.552938
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554ae",
+    "stop_id": "70091",
+    "stop_code": "70091",
+    "stop_name": "San Mateo Caltrain",
+    "stop_lat": 37.568087,
+    "stop_lon": -122.323851,
+    "zone_id": "2",
+    "stop_url": "http://www.caltrain.com/stations/sanmateostation.html",
+    "location_type": 0,
+    "parent_station": "ctsmat",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.323851,
+      37.568087
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554ac",
+    "stop_id": "70081",
+    "stop_code": "70081",
+    "stop_name": "Burlingame Caltrain",
+    "stop_lat": 37.580197,
+    "stop_lon": -122.3449,
+    "zone_id": "2",
+    "stop_url": "http://www.caltrain.com/stations/burlingamestation.html",
+    "location_type": 0,
+    "parent_station": "ctbu",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.3449,
+      37.580197
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554aa",
+    "stop_id": "70071",
+    "stop_code": "70071",
+    "stop_name": "Broadway Caltrain",
+    "stop_lat": 37.58764,
+    "stop_lon": -122.36265,
+    "zone_id": "2",
+    "stop_url": "http://www.caltrain.com/stations/broadwaystation.html",
+    "location_type": 0,
+    "parent_station": "ctbr",
+    "platform_code": "NB",
+    "wheelchair_boarding": 2,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.36265,
+      37.58764
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554a8",
+    "stop_id": "70061",
+    "stop_code": "70061",
+    "stop_name": "Millbrae Caltrain",
+    "stop_lat": 37.59988,
+    "stop_lon": -122.386647,
+    "zone_id": "2",
+    "stop_url": "http://www.caltrain.com/stations/millbraetransitcenter.html",
+    "location_type": 0,
+    "parent_station": "ctmi",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.386647,
+      37.59988
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554a6",
+    "stop_id": "70051",
+    "stop_code": "70051",
+    "stop_name": "San Bruno Caltrain",
+    "stop_lat": 37.631128,
+    "stop_lon": -122.411968,
+    "zone_id": "1",
+    "stop_url": "http://www.caltrain.com/stations/sanbrunostation.html",
+    "location_type": 0,
+    "parent_station": "ctsb",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.411968,
+      37.631128
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554a4",
+    "stop_id": "70041",
+    "stop_code": "70041",
+    "stop_name": "So. San Francisco Caltrain Station",
+    "stop_lat": 37.65589,
+    "stop_lon": -122.40487,
+    "zone_id": "1",
+    "stop_url": "http://www.caltrain.com/stations/southsanfranciscostation.html",
+    "location_type": 0,
+    "parent_station": "ctssf",
+    "platform_code": "NB",
+    "wheelchair_boarding": 2,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.40487,
+      37.65589
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554a2",
+    "stop_id": "70031",
+    "stop_code": "70031",
+    "stop_name": "Bayshore Caltrain",
+    "stop_lat": 37.709537,
+    "stop_lon": -122.401586,
+    "zone_id": "1",
+    "stop_url": "http://www.caltrain.com/stations/bayshorestation.html",
+    "location_type": 0,
+    "parent_station": "ctba",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.401586,
+      37.709537
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554a0",
+    "stop_id": "70021",
+    "stop_code": "70021",
+    "stop_name": "22nd St Caltrain",
+    "stop_lat": 37.757599,
+    "stop_lon": -122.39188,
+    "zone_id": "1",
+    "stop_url": "http://www.caltrain.com/stations/22ndstreetstation.html",
+    "location_type": 0,
+    "parent_station": "ct22",
+    "platform_code": "NB",
+    "wheelchair_boarding": 2,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.39188,
+      37.757599
+    ]
+  },
+  {
+    "_id": "574c0966b47e26624505549e",
+    "stop_id": "70011",
+    "stop_code": "70011",
+    "stop_name": "San Francisco Caltrain",
+    "stop_lat": 37.77639,
+    "stop_lon": -122.394992,
+    "zone_id": "1",
+    "stop_url": "http://www.caltrain.com/stations/sanfranciscostation.html",
+    "location_type": 0,
+    "parent_station": "ctsf",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.394992,
+      37.77639
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554da",
+    "stop_id": "70321",
+    "stop_code": "70321",
+    "stop_name": "Gilroy Caltrain",
+    "stop_lat": 37.003538,
+    "stop_lon": -121.566088,
+    "zone_id": "6",
+    "stop_url": "http://www.caltrain.com/stations/gilroystation.html",
+    "location_type": 0,
+    "parent_station": "ctgi",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -121.566088,
+      37.003538
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554d8",
+    "stop_id": "70311",
+    "stop_code": "70311",
+    "stop_name": "San Martin Caltrain",
+    "stop_lat": 37.085225,
+    "stop_lon": -121.610049,
+    "zone_id": "6",
+    "stop_url": "http://www.caltrain.com/stations/sanmartinstation.html",
+    "location_type": 0,
+    "parent_station": "ctsmar",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -121.610049,
+      37.085225
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554d6",
+    "stop_id": "70301",
+    "stop_code": "70301",
+    "stop_name": "Morgan Hill Caltrain",
+    "stop_lat": 37.129363,
+    "stop_lon": -121.650244,
+    "zone_id": "6",
+    "stop_url": "http://www.caltrain.com/stations/morganhillstation.html",
+    "location_type": 0,
+    "parent_station": "ctmh",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -121.650244,
+      37.129363
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554d4",
+    "stop_id": "70291",
+    "stop_code": "70291",
+    "stop_name": "Blossom Hill Caltrain",
+    "stop_lat": 37.252422,
+    "stop_lon": -121.797643,
+    "zone_id": "5",
+    "stop_url": "http://www.caltrain.com/stations/blossomhillstation.html",
+    "location_type": 0,
+    "parent_station": "ctbl",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -121.797643,
+      37.252422
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554d2",
+    "stop_id": "70281",
+    "stop_code": "70281",
+    "stop_name": "Capitol Caltrain",
+    "stop_lat": 37.284102,
+    "stop_lon": -121.841955,
+    "zone_id": "5",
+    "stop_url": "http://www.caltrain.com/stations/capitolstation.html",
+    "location_type": 0,
+    "parent_station": "ctcap",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -121.841955,
+      37.284102
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554d0",
+    "stop_id": "70271",
+    "stop_code": "70271",
+    "stop_name": "Tamien Caltrain",
+    "stop_lat": 37.31174,
+    "stop_lon": -121.883721,
+    "zone_id": "4",
+    "stop_url": "http://www.caltrain.com/stations/tamienstation.html",
+    "location_type": 0,
+    "parent_station": "ctta",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -121.883721,
+      37.31174
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554ce",
+    "stop_id": "70261",
+    "stop_code": "70261",
+    "stop_name": "San Jose Diridon Caltrain",
+    "stop_lat": 37.329239,
+    "stop_lon": -121.903011,
+    "zone_id": "4",
+    "stop_url": "http://www.caltrain.com/stations/sanjosediridonstation.html",
+    "location_type": 0,
+    "parent_station": "ctsj",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -121.903011,
+      37.329239
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554ca",
+    "stop_id": "70241",
+    "stop_code": "70241",
+    "stop_name": "Santa Clara Caltrain",
+    "stop_lat": 37.353238,
+    "stop_lon": -121.93608,
+    "zone_id": "4",
+    "stop_url": "http://www.caltrain.com/stations/santaclarastation.html",
+    "location_type": 0,
+    "parent_station": "ctscl",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -121.93608,
+      37.353238
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554c8",
+    "stop_id": "70231",
+    "stop_code": "70231",
+    "stop_name": "Lawrence Caltrain",
+    "stop_lat": 37.370598,
+    "stop_lon": -121.997114,
+    "zone_id": "4",
+    "stop_url": "http://www.caltrain.com/stations/lawrencestation.html",
+    "location_type": 0,
+    "parent_station": "ctla",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -121.997114,
+      37.370598
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554c6",
+    "stop_id": "70221",
+    "stop_code": "70221",
+    "stop_name": "Sunnyvale Caltrain",
+    "stop_lat": 37.378916,
+    "stop_lon": -122.031372,
+    "zone_id": "3",
+    "stop_url": "http://www.caltrain.com/stations/sunnyvalestation.html",
+    "location_type": 0,
+    "parent_station": "ctsu",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.031372,
+      37.378916
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554c4",
+    "stop_id": "70211",
+    "stop_code": "70211",
+    "stop_name": "Mt View Caltrain",
+    "stop_lat": 37.394459,
+    "stop_lon": -122.075956,
+    "zone_id": "3",
+    "stop_url": "http://www.caltrain.com/stations/mountainviewstation.html",
+    "location_type": 0,
+    "parent_station": "ctmv",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.075956,
+      37.394459
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554bc",
+    "stop_id": "70161",
+    "stop_code": "70161",
+    "stop_name": "Menlo Park Caltrain",
+    "stop_lat": 37.454856,
+    "stop_lon": -122.182297,
+    "zone_id": "3",
+    "stop_url": "http://www.caltrain.com/stations/menloparkstation.html",
+    "location_type": 0,
+    "parent_station": "ctmp",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.182297,
+      37.454856
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554b8",
+    "stop_id": "70141",
+    "stop_code": "70141",
+    "stop_name": "Redwood City Caltrain",
+    "stop_lat": 37.486159,
+    "stop_lon": -122.231936,
+    "zone_id": "2",
+    "stop_url": "http://www.caltrain.com/stations/redwoodcitystation.html",
+    "location_type": 0,
+    "parent_station": "ctrwc",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.231936,
+      37.486159
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554b6",
+    "stop_id": "70131",
+    "stop_code": "70131",
+    "stop_name": "San Carlos Caltrain",
+    "stop_lat": 37.50805,
+    "stop_lon": -122.26015,
+    "zone_id": "2",
+    "stop_url": "http://www.caltrain.com/stations/sancarlosstation.html",
+    "location_type": 0,
+    "parent_station": "ctsc",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.26015,
+      37.50805
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554b4",
+    "stop_id": "70121",
+    "stop_code": "70121",
+    "stop_name": "Belmont Caltrain",
+    "stop_lat": 37.52089,
+    "stop_lon": -122.275738,
+    "zone_id": "2",
+    "stop_url": "http://www.caltrain.com/stations/belmontstation.html",
+    "location_type": 0,
+    "parent_station": "ctbe",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.275738,
+      37.52089
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554b2",
+    "stop_id": "70111",
+    "stop_code": "70111",
+    "stop_name": "Hillsdale Caltrain",
+    "stop_lat": 37.537868,
+    "stop_lon": -122.297349,
+    "zone_id": "2",
+    "stop_url": "http://www.caltrain.com/stations/hillsdalestation.html",
+    "location_type": 0,
+    "parent_station": "cthi",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.297349,
+      37.537868
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554b0",
+    "stop_id": "70101",
+    "stop_code": "70101",
+    "stop_name": "Hayward Park Caltrain",
+    "stop_lat": 37.552938,
+    "stop_lon": -122.309338,
+    "zone_id": "2",
+    "stop_url": "http://www.caltrain.com/stations/haywardparkstation.html",
+    "location_type": 0,
+    "parent_station": "ctha",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.309338,
+      37.552938
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554ae",
+    "stop_id": "70091",
+    "stop_code": "70091",
+    "stop_name": "San Mateo Caltrain",
+    "stop_lat": 37.568087,
+    "stop_lon": -122.323851,
+    "zone_id": "2",
+    "stop_url": "http://www.caltrain.com/stations/sanmateostation.html",
+    "location_type": 0,
+    "parent_station": "ctsmat",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.323851,
+      37.568087
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554ac",
+    "stop_id": "70081",
+    "stop_code": "70081",
+    "stop_name": "Burlingame Caltrain",
+    "stop_lat": 37.580197,
+    "stop_lon": -122.3449,
+    "zone_id": "2",
+    "stop_url": "http://www.caltrain.com/stations/burlingamestation.html",
+    "location_type": 0,
+    "parent_station": "ctbu",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.3449,
+      37.580197
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554a8",
+    "stop_id": "70061",
+    "stop_code": "70061",
+    "stop_name": "Millbrae Caltrain",
+    "stop_lat": 37.59988,
+    "stop_lon": -122.386647,
+    "zone_id": "2",
+    "stop_url": "http://www.caltrain.com/stations/millbraetransitcenter.html",
+    "location_type": 0,
+    "parent_station": "ctmi",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.386647,
+      37.59988
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554a6",
+    "stop_id": "70051",
+    "stop_code": "70051",
+    "stop_name": "San Bruno Caltrain",
+    "stop_lat": 37.631128,
+    "stop_lon": -122.411968,
+    "zone_id": "1",
+    "stop_url": "http://www.caltrain.com/stations/sanbrunostation.html",
+    "location_type": 0,
+    "parent_station": "ctsb",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.411968,
+      37.631128
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554a4",
+    "stop_id": "70041",
+    "stop_code": "70041",
+    "stop_name": "So. San Francisco Caltrain Station",
+    "stop_lat": 37.65589,
+    "stop_lon": -122.40487,
+    "zone_id": "1",
+    "stop_url": "http://www.caltrain.com/stations/southsanfranciscostation.html",
+    "location_type": 0,
+    "parent_station": "ctssf",
+    "platform_code": "NB",
+    "wheelchair_boarding": 2,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.40487,
+      37.65589
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554a2",
+    "stop_id": "70031",
+    "stop_code": "70031",
+    "stop_name": "Bayshore Caltrain",
+    "stop_lat": 37.709537,
+    "stop_lon": -122.401586,
+    "zone_id": "1",
+    "stop_url": "http://www.caltrain.com/stations/bayshorestation.html",
+    "location_type": 0,
+    "parent_station": "ctba",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.401586,
+      37.709537
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554a0",
+    "stop_id": "70021",
+    "stop_code": "70021",
+    "stop_name": "22nd St Caltrain",
+    "stop_lat": 37.757599,
+    "stop_lon": -122.39188,
+    "zone_id": "1",
+    "stop_url": "http://www.caltrain.com/stations/22ndstreetstation.html",
+    "location_type": 0,
+    "parent_station": "ct22",
+    "platform_code": "NB",
+    "wheelchair_boarding": 2,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.39188,
+      37.757599
+    ]
+  },
+  {
+    "_id": "574c0966b47e26624505549e",
+    "stop_id": "70011",
+    "stop_code": "70011",
+    "stop_name": "San Francisco Caltrain",
+    "stop_lat": 37.77639,
+    "stop_lon": -122.394992,
+    "zone_id": "1",
+    "stop_url": "http://www.caltrain.com/stations/sanfranciscostation.html",
+    "location_type": 0,
+    "parent_station": "ctsf",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.394992,
+      37.77639
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554ce",
+    "stop_id": "70261",
+    "stop_code": "70261",
+    "stop_name": "San Jose Diridon Caltrain",
+    "stop_lat": 37.329239,
+    "stop_lon": -121.903011,
+    "zone_id": "4",
+    "stop_url": "http://www.caltrain.com/stations/sanjosediridonstation.html",
+    "location_type": 0,
+    "parent_station": "ctsj",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -121.903011,
+      37.329239
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554c6",
+    "stop_id": "70221",
+    "stop_code": "70221",
+    "stop_name": "Sunnyvale Caltrain",
+    "stop_lat": 37.378916,
+    "stop_lon": -122.031372,
+    "zone_id": "3",
+    "stop_url": "http://www.caltrain.com/stations/sunnyvalestation.html",
+    "location_type": 0,
+    "parent_station": "ctsu",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.031372,
+      37.378916
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554c4",
+    "stop_id": "70211",
+    "stop_code": "70211",
+    "stop_name": "Mt View Caltrain",
+    "stop_lat": 37.394459,
+    "stop_lon": -122.075956,
+    "zone_id": "3",
+    "stop_url": "http://www.caltrain.com/stations/mountainviewstation.html",
+    "location_type": 0,
+    "parent_station": "ctmv",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.075956,
+      37.394459
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554be",
+    "stop_id": "70171",
+    "stop_code": "70171",
+    "stop_name": "Palo Alto Caltrain",
+    "stop_lat": 37.443475,
+    "stop_lon": -122.164614,
+    "zone_id": "3",
+    "stop_url": "http://www.caltrain.com/stations/paloaltostation.html",
+    "location_type": 0,
+    "parent_station": "ctpa",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.164614,
+      37.443475
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554b8",
+    "stop_id": "70141",
+    "stop_code": "70141",
+    "stop_name": "Redwood City Caltrain",
+    "stop_lat": 37.486159,
+    "stop_lon": -122.231936,
+    "zone_id": "2",
+    "stop_url": "http://www.caltrain.com/stations/redwoodcitystation.html",
+    "location_type": 0,
+    "parent_station": "ctrwc",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.231936,
+      37.486159
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554b2",
+    "stop_id": "70111",
+    "stop_code": "70111",
+    "stop_name": "Hillsdale Caltrain",
+    "stop_lat": 37.537868,
+    "stop_lon": -122.297349,
+    "zone_id": "2",
+    "stop_url": "http://www.caltrain.com/stations/hillsdalestation.html",
+    "location_type": 0,
+    "parent_station": "cthi",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.297349,
+      37.537868
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554ae",
+    "stop_id": "70091",
+    "stop_code": "70091",
+    "stop_name": "San Mateo Caltrain",
+    "stop_lat": 37.568087,
+    "stop_lon": -122.323851,
+    "zone_id": "2",
+    "stop_url": "http://www.caltrain.com/stations/sanmateostation.html",
+    "location_type": 0,
+    "parent_station": "ctsmat",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.323851,
+      37.568087
+    ]
+  },
+  {
+    "_id": "574c0966b47e2662450554a8",
+    "stop_id": "70061",
+    "stop_code": "70061",
+    "stop_name": "Millbrae Caltrain",
+    "stop_lat": 37.59988,
+    "stop_lon": -122.386647,
+    "zone_id": "2",
+    "stop_url": "http://www.caltrain.com/stations/millbraetransitcenter.html",
+    "location_type": 0,
+    "parent_station": "ctmi",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.386647,
+      37.59988
+    ]
+  },
+  {
+    "_id": "574c0966b47e26624505549e",
+    "stop_id": "70011",
+    "stop_code": "70011",
+    "stop_name": "San Francisco Caltrain",
+    "stop_lat": 37.77639,
+    "stop_lon": -122.394992,
+    "zone_id": "1",
+    "stop_url": "http://www.caltrain.com/stations/sanfranciscostation.html",
+    "location_type": 0,
+    "parent_station": "ctsf",
+    "platform_code": "NB",
+    "wheelchair_boarding": 1,
+    "agency_key": "caltrain-agency-key",
+    "loc": [
+      -122.394992,
+      37.77639
+    ]
+  }
+]

@@ -32,8 +32,6 @@ self.addEventListener('activate', function(event) {
 });
 
 this.addEventListener('fetch', function(event) {
-  console.log(event);
-  // console.log(event.request);
 
   // var response;
   // event.respondWith(caches.match(event.request).catch(function() {
@@ -51,7 +49,10 @@ this.addEventListener('fetch', function(event) {
   // }));
   event.respondWith(
     caches.match(event.request).then(function(response) {
+      // if(!response) console.log(event.request);
+      console.log(response);
       return response || fetch(event.request);
+
     })
   );
 });

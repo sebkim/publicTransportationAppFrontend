@@ -14,9 +14,11 @@
         "gulp-rename": ">=1.2.2",
         "gulp-concat": ">=2.6.0",
         "gulp-watch": ">=4.3.6",
-        "gulp-gh-pages": ">=0.5.4"
+        "gulp-gh-pages": ">=0.5.4",
+        "gtfs": ">=0.4.5"
     },
     "scripts": {
-        "minifyAll": "gulp"
+        "minifyAll": "gulp",
+        "gtfsImport": "cd node_modules/gtfs && npm run download"
     }
 }
