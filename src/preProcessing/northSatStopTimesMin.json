@@ -1,0 +1,2240 @@
+[
+  [
+    {
+      "trip_id": "23a",
+      "arrival_time": "7:33:00",
+      "stop_id": "777403"
+    },
+    {
+      "trip_id": "23a",
+      "arrival_time": "7:45:00",
+      "stop_id": "777402"
+    }
+  ],
+  [
+    {
+      "trip_id": "25a",
+      "arrival_time": "8:33:00",
+      "stop_id": "777403"
+    },
+    {
+      "trip_id": "25a",
+      "arrival_time": "8:45:00",
+      "stop_id": "777402"
+    }
+  ],
+  [
+    {
+      "trip_id": "27a",
+      "arrival_time": "9:33:00",
+      "stop_id": "777403"
+    },
+    {
+      "trip_id": "27a",
+      "arrival_time": "9:45:00",
+      "stop_id": "777402"
+    }
+  ],
+  [
+    {
+      "trip_id": "01a",
+      "arrival_time": "10:10:00",
+      "stop_id": "777403"
+    },
+    {
+      "trip_id": "01a",
+      "arrival_time": "10:22:00",
+      "stop_id": "777402"
+    }
+  ],
+  [
+    {
+      "trip_id": "29a",
+      "arrival_time": "10:33:00",
+      "stop_id": "777403"
+    },
+    {
+      "trip_id": "29a",
+      "arrival_time": "10:45:00",
+      "stop_id": "777402"
+    }
+  ],
+  [
+    {
+      "trip_id": "31a",
+      "arrival_time": "11:33:00",
+      "stop_id": "777403"
+    },
+    {
+      "trip_id": "31a",
+      "arrival_time": "11:45:00",
+      "stop_id": "777402"
+    }
+  ],
+  [
+    {
+      "trip_id": "33a",
+      "arrival_time": "12:33:00",
+      "stop_id": "777403"
+    },
+    {
+      "trip_id": "33a",
+      "arrival_time": "12:45:00",
+      "stop_id": "777402"
+    }
+  ],
+  [
+    {
+      "trip_id": "35a",
+      "arrival_time": "13:33:00",
+      "stop_id": "777403"
+    },
+    {
+      "trip_id": "35a",
+      "arrival_time": "13:45:00",
+      "stop_id": "777402"
+    }
+  ],
+  [
+    {
+      "trip_id": "37a",
+      "arrival_time": "14:33:00",
+      "stop_id": "777403"
+    },
+    {
+      "trip_id": "37a",
+      "arrival_time": "14:45:00",
+      "stop_id": "777402"
+    }
+  ],
+  [
+    {
+      "trip_id": "39a",
+      "arrival_time": "15:33:00",
+      "stop_id": "777403"
+    },
+    {
+      "trip_id": "39a",
+      "arrival_time": "15:45:00",
+      "stop_id": "777402"
+    }
+  ],
+  [
+    {
+      "trip_id": "41a",
+      "arrival_time": "16:33:00",
+      "stop_id": "777403"
+    },
+    {
+      "trip_id": "41a",
+      "arrival_time": "16:45:00",
+      "stop_id": "777402"
+    }
+  ],
+  [
+    {
+      "trip_id": "03a",
+      "arrival_time": "17:10:00",
+      "stop_id": "777403"
+    },
+    {
+      "trip_id": "03a",
+      "arrival_time": "17:22:00",
+      "stop_id": "777402"
+    }
+  ],
+  [
+    {
+      "trip_id": "43a",
+      "arrival_time": "17:33:00",
+      "stop_id": "777403"
+    },
+    {
+      "trip_id": "43a",
+      "arrival_time": "17:45:00",
+      "stop_id": "777402"
+    }
+  ],
+  [
+    {
+      "trip_id": "45a",
+      "arrival_time": "18:33:00",
+      "stop_id": "777403"
+    },
+    {
+      "trip_id": "45a",
+      "arrival_time": "18:45:00",
+      "stop_id": "777402"
+    }
+  ],
+  [
+    {
+      "trip_id": "47a",
+      "arrival_time": "19:33:00",
+      "stop_id": "777403"
+    },
+    {
+      "trip_id": "47a",
+      "arrival_time": "19:45:00",
+      "stop_id": "777402"
+    }
+  ],
+  [
+    {
+      "trip_id": "49a",
+      "arrival_time": "20:33:00",
+      "stop_id": "777403"
+    },
+    {
+      "trip_id": "49a",
+      "arrival_time": "20:45:00",
+      "stop_id": "777402"
+    }
+  ],
+  [
+    {
+      "trip_id": "421a",
+      "arrival_time": "7:00:00",
+      "stop_id": "70261"
+    },
+    {
+      "trip_id": "421a",
+      "arrival_time": "7:05:00",
+      "stop_id": "70241"
+    },
+    {
+      "trip_id": "421a",
+      "arrival_time": "7:10:00",
+      "stop_id": "70231"
+    },
+    {
+      "trip_id": "421a",
+      "arrival_time": "7:14:00",
+      "stop_id": "70221"
+    },
+    {
+      "trip_id": "421a",
+      "arrival_time": "7:19:00",
+      "stop_id": "70211"
+    },
+    {
+      "trip_id": "421a",
+      "arrival_time": "7:23:00",
+      "stop_id": "70201"
+    },
+    {
+      "trip_id": "421a",
+      "arrival_time": "7:27:00",
+      "stop_id": "70191"
+    },
+    {
+      "trip_id": "421a",
+      "arrival_time": "7:31:00",
+      "stop_id": "70171"
+    },
+    {
+      "trip_id": "421a",
+      "arrival_time": "7:34:00",
+      "stop_id": "70161"
+    },
+    {
+      "trip_id": "421a",
+      "arrival_time": "7:37:00",
+      "stop_id": "70151"
+    },
+    {
+      "trip_id": "421a",
+      "arrival_time": "7:41:00",
+      "stop_id": "70141"
+    },
+    {
+      "trip_id": "421a",
+      "arrival_time": "7:45:00",
+      "stop_id": "70131"
+    },
+    {
+      "trip_id": "421a",
+      "arrival_time": "7:48:00",
+      "stop_id": "70121"
+    },
+    {
+      "trip_id": "421a",
+      "arrival_time": "7:51:00",
+      "stop_id": "70111"
+    },
+    {
+      "trip_id": "421a",
+      "arrival_time": "7:54:00",
+      "stop_id": "70101"
+    },
+    {
+      "trip_id": "421a",
+      "arrival_time": "7:57:00",
+      "stop_id": "70091"
+    },
+    {
+      "trip_id": "421a",
+      "arrival_time": "8:02:00",
+      "stop_id": "70081"
+    },
+    {
+      "trip_id": "421a",
+      "arrival_time": "8:05:00",
+      "stop_id": "70071"
+    },
+    {
+      "trip_id": "421a",
+      "arrival_time": "8:10:00",
+      "stop_id": "70061"
+    },
+    {
+      "trip_id": "421a",
+      "arrival_time": "8:14:00",
+      "stop_id": "70051"
+    },
+    {
+      "trip_id": "421a",
+      "arrival_time": "8:19:00",
+      "stop_id": "70041"
+    },
+    {
+      "trip_id": "421a",
+      "arrival_time": "8:25:00",
+      "stop_id": "70031"
+    },
+    {
+      "trip_id": "421a",
+      "arrival_time": "8:30:00",
+      "stop_id": "70021"
+    },
+    {
+      "trip_id": "421a",
+      "arrival_time": "8:38:00",
+      "stop_id": "70011"
+    }
+  ],
+  [
+    {
+      "trip_id": "423a",
+      "arrival_time": "8:00:00",
+      "stop_id": "70261"
+    },
+    {
+      "trip_id": "423a",
+      "arrival_time": "8:05:00",
+      "stop_id": "70241"
+    },
+    {
+      "trip_id": "423a",
+      "arrival_time": "8:10:00",
+      "stop_id": "70231"
+    },
+    {
+      "trip_id": "423a",
+      "arrival_time": "8:14:00",
+      "stop_id": "70221"
+    },
+    {
+      "trip_id": "423a",
+      "arrival_time": "8:19:00",
+      "stop_id": "70211"
+    },
+    {
+      "trip_id": "423a",
+      "arrival_time": "8:23:00",
+      "stop_id": "70201"
+    },
+    {
+      "trip_id": "423a",
+      "arrival_time": "8:27:00",
+      "stop_id": "70191"
+    },
+    {
+      "trip_id": "423a",
+      "arrival_time": "8:31:00",
+      "stop_id": "70171"
+    },
+    {
+      "trip_id": "423a",
+      "arrival_time": "8:34:00",
+      "stop_id": "70161"
+    },
+    {
+      "trip_id": "423a",
+      "arrival_time": "8:37:00",
+      "stop_id": "70151"
+    },
+    {
+      "trip_id": "423a",
+      "arrival_time": "8:41:00",
+      "stop_id": "70141"
+    },
+    {
+      "trip_id": "423a",
+      "arrival_time": "8:45:00",
+      "stop_id": "70131"
+    },
+    {
+      "trip_id": "423a",
+      "arrival_time": "8:48:00",
+      "stop_id": "70121"
+    },
+    {
+      "trip_id": "423a",
+      "arrival_time": "8:51:00",
+      "stop_id": "70111"
+    },
+    {
+      "trip_id": "423a",
+      "arrival_time": "8:54:00",
+      "stop_id": "70101"
+    },
+    {
+      "trip_id": "423a",
+      "arrival_time": "8:57:00",
+      "stop_id": "70091"
+    },
+    {
+      "trip_id": "423a",
+      "arrival_time": "9:02:00",
+      "stop_id": "70081"
+    },
+    {
+      "trip_id": "423a",
+      "arrival_time": "9:05:00",
+      "stop_id": "70071"
+    },
+    {
+      "trip_id": "423a",
+      "arrival_time": "9:10:00",
+      "stop_id": "70061"
+    },
+    {
+      "trip_id": "423a",
+      "arrival_time": "9:14:00",
+      "stop_id": "70051"
+    },
+    {
+      "trip_id": "423a",
+      "arrival_time": "9:19:00",
+      "stop_id": "70041"
+    },
+    {
+      "trip_id": "423a",
+      "arrival_time": "9:25:00",
+      "stop_id": "70031"
+    },
+    {
+      "trip_id": "423a",
+      "arrival_time": "9:30:00",
+      "stop_id": "70021"
+    },
+    {
+      "trip_id": "423a",
+      "arrival_time": "9:38:00",
+      "stop_id": "70011"
+    }
+  ],
+  [
+    {
+      "trip_id": "425a",
+      "arrival_time": "9:00:00",
+      "stop_id": "70261"
+    },
+    {
+      "trip_id": "425a",
+      "arrival_time": "9:05:00",
+      "stop_id": "70241"
+    },
+    {
+      "trip_id": "425a",
+      "arrival_time": "9:10:00",
+      "stop_id": "70231"
+    },
+    {
+      "trip_id": "425a",
+      "arrival_time": "9:14:00",
+      "stop_id": "70221"
+    },
+    {
+      "trip_id": "425a",
+      "arrival_time": "9:19:00",
+      "stop_id": "70211"
+    },
+    {
+      "trip_id": "425a",
+      "arrival_time": "9:23:00",
+      "stop_id": "70201"
+    },
+    {
+      "trip_id": "425a",
+      "arrival_time": "9:27:00",
+      "stop_id": "70191"
+    },
+    {
+      "trip_id": "425a",
+      "arrival_time": "9:31:00",
+      "stop_id": "70171"
+    },
+    {
+      "trip_id": "425a",
+      "arrival_time": "9:34:00",
+      "stop_id": "70161"
+    },
+    {
+      "trip_id": "425a",
+      "arrival_time": "9:37:00",
+      "stop_id": "70151"
+    },
+    {
+      "trip_id": "425a",
+      "arrival_time": "9:41:00",
+      "stop_id": "70141"
+    },
+    {
+      "trip_id": "425a",
+      "arrival_time": "9:45:00",
+      "stop_id": "70131"
+    },
+    {
+      "trip_id": "425a",
+      "arrival_time": "9:48:00",
+      "stop_id": "70121"
+    },
+    {
+      "trip_id": "425a",
+      "arrival_time": "9:51:00",
+      "stop_id": "70111"
+    },
+    {
+      "trip_id": "425a",
+      "arrival_time": "9:54:00",
+      "stop_id": "70101"
+    },
+    {
+      "trip_id": "425a",
+      "arrival_time": "9:57:00",
+      "stop_id": "70091"
+    },
+    {
+      "trip_id": "425a",
+      "arrival_time": "10:02:00",
+      "stop_id": "70081"
+    },
+    {
+      "trip_id": "425a",
+      "arrival_time": "10:05:00",
+      "stop_id": "70071"
+    },
+    {
+      "trip_id": "425a",
+      "arrival_time": "10:10:00",
+      "stop_id": "70061"
+    },
+    {
+      "trip_id": "425a",
+      "arrival_time": "10:14:00",
+      "stop_id": "70051"
+    },
+    {
+      "trip_id": "425a",
+      "arrival_time": "10:19:00",
+      "stop_id": "70041"
+    },
+    {
+      "trip_id": "425a",
+      "arrival_time": "10:25:00",
+      "stop_id": "70031"
+    },
+    {
+      "trip_id": "425a",
+      "arrival_time": "10:30:00",
+      "stop_id": "70021"
+    },
+    {
+      "trip_id": "425a",
+      "arrival_time": "10:38:00",
+      "stop_id": "70011"
+    }
+  ],
+  [
+    {
+      "trip_id": "427a",
+      "arrival_time": "10:00:00",
+      "stop_id": "70261"
+    },
+    {
+      "trip_id": "427a",
+      "arrival_time": "10:05:00",
+      "stop_id": "70241"
+    },
+    {
+      "trip_id": "427a",
+      "arrival_time": "10:10:00",
+      "stop_id": "70231"
+    },
+    {
+      "trip_id": "427a",
+      "arrival_time": "10:14:00",
+      "stop_id": "70221"
+    },
+    {
+      "trip_id": "427a",
+      "arrival_time": "10:19:00",
+      "stop_id": "70211"
+    },
+    {
+      "trip_id": "427a",
+      "arrival_time": "10:23:00",
+      "stop_id": "70201"
+    },
+    {
+      "trip_id": "427a",
+      "arrival_time": "10:27:00",
+      "stop_id": "70191"
+    },
+    {
+      "trip_id": "427a",
+      "arrival_time": "10:31:00",
+      "stop_id": "70171"
+    },
+    {
+      "trip_id": "427a",
+      "arrival_time": "10:34:00",
+      "stop_id": "70161"
+    },
+    {
+      "trip_id": "427a",
+      "arrival_time": "10:37:00",
+      "stop_id": "70151"
+    },
+    {
+      "trip_id": "427a",
+      "arrival_time": "10:41:00",
+      "stop_id": "70141"
+    },
+    {
+      "trip_id": "427a",
+      "arrival_time": "10:45:00",
+      "stop_id": "70131"
+    },
+    {
+      "trip_id": "427a",
+      "arrival_time": "10:48:00",
+      "stop_id": "70121"
+    },
+    {
+      "trip_id": "427a",
+      "arrival_time": "10:51:00",
+      "stop_id": "70111"
+    },
+    {
+      "trip_id": "427a",
+      "arrival_time": "10:54:00",
+      "stop_id": "70101"
+    },
+    {
+      "trip_id": "427a",
+      "arrival_time": "10:57:00",
+      "stop_id": "70091"
+    },
+    {
+      "trip_id": "427a",
+      "arrival_time": "11:02:00",
+      "stop_id": "70081"
+    },
+    {
+      "trip_id": "427a",
+      "arrival_time": "11:05:00",
+      "stop_id": "70071"
+    },
+    {
+      "trip_id": "427a",
+      "arrival_time": "11:10:00",
+      "stop_id": "70061"
+    },
+    {
+      "trip_id": "427a",
+      "arrival_time": "11:14:00",
+      "stop_id": "70051"
+    },
+    {
+      "trip_id": "427a",
+      "arrival_time": "11:19:00",
+      "stop_id": "70041"
+    },
+    {
+      "trip_id": "427a",
+      "arrival_time": "11:25:00",
+      "stop_id": "70031"
+    },
+    {
+      "trip_id": "427a",
+      "arrival_time": "11:30:00",
+      "stop_id": "70021"
+    },
+    {
+      "trip_id": "427a",
+      "arrival_time": "11:38:00",
+      "stop_id": "70011"
+    }
+  ],
+  [
+    {
+      "trip_id": "429a",
+      "arrival_time": "11:00:00",
+      "stop_id": "70261"
+    },
+    {
+      "trip_id": "429a",
+      "arrival_time": "11:05:00",
+      "stop_id": "70241"
+    },
+    {
+      "trip_id": "429a",
+      "arrival_time": "11:10:00",
+      "stop_id": "70231"
+    },
+    {
+      "trip_id": "429a",
+      "arrival_time": "11:14:00",
+      "stop_id": "70221"
+    },
+    {
+      "trip_id": "429a",
+      "arrival_time": "11:19:00",
+      "stop_id": "70211"
+    },
+    {
+      "trip_id": "429a",
+      "arrival_time": "11:23:00",
+      "stop_id": "70201"
+    },
+    {
+      "trip_id": "429a",
+      "arrival_time": "11:27:00",
+      "stop_id": "70191"
+    },
+    {
+      "trip_id": "429a",
+      "arrival_time": "11:31:00",
+      "stop_id": "70171"
+    },
+    {
+      "trip_id": "429a",
+      "arrival_time": "11:34:00",
+      "stop_id": "70161"
+    },
+    {
+      "trip_id": "429a",
+      "arrival_time": "11:37:00",
+      "stop_id": "70151"
+    },
+    {
+      "trip_id": "429a",
+      "arrival_time": "11:41:00",
+      "stop_id": "70141"
+    },
+    {
+      "trip_id": "429a",
+      "arrival_time": "11:45:00",
+      "stop_id": "70131"
+    },
+    {
+      "trip_id": "429a",
+      "arrival_time": "11:48:00",
+      "stop_id": "70121"
+    },
+    {
+      "trip_id": "429a",
+      "arrival_time": "11:51:00",
+      "stop_id": "70111"
+    },
+    {
+      "trip_id": "429a",
+      "arrival_time": "11:54:00",
+      "stop_id": "70101"
+    },
+    {
+      "trip_id": "429a",
+      "arrival_time": "11:57:00",
+      "stop_id": "70091"
+    },
+    {
+      "trip_id": "429a",
+      "arrival_time": "12:02:00",
+      "stop_id": "70081"
+    },
+    {
+      "trip_id": "429a",
+      "arrival_time": "12:05:00",
+      "stop_id": "70071"
+    },
+    {
+      "trip_id": "429a",
+      "arrival_time": "12:10:00",
+      "stop_id": "70061"
+    },
+    {
+      "trip_id": "429a",
+      "arrival_time": "12:14:00",
+      "stop_id": "70051"
+    },
+    {
+      "trip_id": "429a",
+      "arrival_time": "12:19:00",
+      "stop_id": "70041"
+    },
+    {
+      "trip_id": "429a",
+      "arrival_time": "12:25:00",
+      "stop_id": "70031"
+    },
+    {
+      "trip_id": "429a",
+      "arrival_time": "12:30:00",
+      "stop_id": "70021"
+    },
+    {
+      "trip_id": "429a",
+      "arrival_time": "12:38:00",
+      "stop_id": "70011"
+    }
+  ],
+  [
+    {
+      "trip_id": "431a",
+      "arrival_time": "12:00:00",
+      "stop_id": "70261"
+    },
+    {
+      "trip_id": "431a",
+      "arrival_time": "12:05:00",
+      "stop_id": "70241"
+    },
+    {
+      "trip_id": "431a",
+      "arrival_time": "12:10:00",
+      "stop_id": "70231"
+    },
+    {
+      "trip_id": "431a",
+      "arrival_time": "12:14:00",
+      "stop_id": "70221"
+    },
+    {
+      "trip_id": "431a",
+      "arrival_time": "12:19:00",
+      "stop_id": "70211"
+    },
+    {
+      "trip_id": "431a",
+      "arrival_time": "12:23:00",
+      "stop_id": "70201"
+    },
+    {
+      "trip_id": "431a",
+      "arrival_time": "12:27:00",
+      "stop_id": "70191"
+    },
+    {
+      "trip_id": "431a",
+      "arrival_time": "12:31:00",
+      "stop_id": "70171"
+    },
+    {
+      "trip_id": "431a",
+      "arrival_time": "12:34:00",
+      "stop_id": "70161"
+    },
+    {
+      "trip_id": "431a",
+      "arrival_time": "12:37:00",
+      "stop_id": "70151"
+    },
+    {
+      "trip_id": "431a",
+      "arrival_time": "12:41:00",
+      "stop_id": "70141"
+    },
+    {
+      "trip_id": "431a",
+      "arrival_time": "12:45:00",
+      "stop_id": "70131"
+    },
+    {
+      "trip_id": "431a",
+      "arrival_time": "12:48:00",
+      "stop_id": "70121"
+    },
+    {
+      "trip_id": "431a",
+      "arrival_time": "12:51:00",
+      "stop_id": "70111"
+    },
+    {
+      "trip_id": "431a",
+      "arrival_time": "12:54:00",
+      "stop_id": "70101"
+    },
+    {
+      "trip_id": "431a",
+      "arrival_time": "12:57:00",
+      "stop_id": "70091"
+    },
+    {
+      "trip_id": "431a",
+      "arrival_time": "13:02:00",
+      "stop_id": "70081"
+    },
+    {
+      "trip_id": "431a",
+      "arrival_time": "13:05:00",
+      "stop_id": "70071"
+    },
+    {
+      "trip_id": "431a",
+      "arrival_time": "13:10:00",
+      "stop_id": "70061"
+    },
+    {
+      "trip_id": "431a",
+      "arrival_time": "13:14:00",
+      "stop_id": "70051"
+    },
+    {
+      "trip_id": "431a",
+      "arrival_time": "13:19:00",
+      "stop_id": "70041"
+    },
+    {
+      "trip_id": "431a",
+      "arrival_time": "13:25:00",
+      "stop_id": "70031"
+    },
+    {
+      "trip_id": "431a",
+      "arrival_time": "13:30:00",
+      "stop_id": "70021"
+    },
+    {
+      "trip_id": "431a",
+      "arrival_time": "13:38:00",
+      "stop_id": "70011"
+    }
+  ],
+  [
+    {
+      "trip_id": "433a",
+      "arrival_time": "13:00:00",
+      "stop_id": "70261"
+    },
+    {
+      "trip_id": "433a",
+      "arrival_time": "13:05:00",
+      "stop_id": "70241"
+    },
+    {
+      "trip_id": "433a",
+      "arrival_time": "13:10:00",
+      "stop_id": "70231"
+    },
+    {
+      "trip_id": "433a",
+      "arrival_time": "13:14:00",
+      "stop_id": "70221"
+    },
+    {
+      "trip_id": "433a",
+      "arrival_time": "13:19:00",
+      "stop_id": "70211"
+    },
+    {
+      "trip_id": "433a",
+      "arrival_time": "13:23:00",
+      "stop_id": "70201"
+    },
+    {
+      "trip_id": "433a",
+      "arrival_time": "13:27:00",
+      "stop_id": "70191"
+    },
+    {
+      "trip_id": "433a",
+      "arrival_time": "13:31:00",
+      "stop_id": "70171"
+    },
+    {
+      "trip_id": "433a",
+      "arrival_time": "13:34:00",
+      "stop_id": "70161"
+    },
+    {
+      "trip_id": "433a",
+      "arrival_time": "13:37:00",
+      "stop_id": "70151"
+    },
+    {
+      "trip_id": "433a",
+      "arrival_time": "13:41:00",
+      "stop_id": "70141"
+    },
+    {
+      "trip_id": "433a",
+      "arrival_time": "13:45:00",
+      "stop_id": "70131"
+    },
+    {
+      "trip_id": "433a",
+      "arrival_time": "13:48:00",
+      "stop_id": "70121"
+    },
+    {
+      "trip_id": "433a",
+      "arrival_time": "13:51:00",
+      "stop_id": "70111"
+    },
+    {
+      "trip_id": "433a",
+      "arrival_time": "13:54:00",
+      "stop_id": "70101"
+    },
+    {
+      "trip_id": "433a",
+      "arrival_time": "13:57:00",
+      "stop_id": "70091"
+    },
+    {
+      "trip_id": "433a",
+      "arrival_time": "14:02:00",
+      "stop_id": "70081"
+    },
+    {
+      "trip_id": "433a",
+      "arrival_time": "14:05:00",
+      "stop_id": "70071"
+    },
+    {
+      "trip_id": "433a",
+      "arrival_time": "14:10:00",
+      "stop_id": "70061"
+    },
+    {
+      "trip_id": "433a",
+      "arrival_time": "14:14:00",
+      "stop_id": "70051"
+    },
+    {
+      "trip_id": "433a",
+      "arrival_time": "14:19:00",
+      "stop_id": "70041"
+    },
+    {
+      "trip_id": "433a",
+      "arrival_time": "14:25:00",
+      "stop_id": "70031"
+    },
+    {
+      "trip_id": "433a",
+      "arrival_time": "14:30:00",
+      "stop_id": "70021"
+    },
+    {
+      "trip_id": "433a",
+      "arrival_time": "14:38:00",
+      "stop_id": "70011"
+    }
+  ],
+  [
+    {
+      "trip_id": "435a",
+      "arrival_time": "14:00:00",
+      "stop_id": "70261"
+    },
+    {
+      "trip_id": "435a",
+      "arrival_time": "14:05:00",
+      "stop_id": "70241"
+    },
+    {
+      "trip_id": "435a",
+      "arrival_time": "14:10:00",
+      "stop_id": "70231"
+    },
+    {
+      "trip_id": "435a",
+      "arrival_time": "14:14:00",
+      "stop_id": "70221"
+    },
+    {
+      "trip_id": "435a",
+      "arrival_time": "14:19:00",
+      "stop_id": "70211"
+    },
+    {
+      "trip_id": "435a",
+      "arrival_time": "14:23:00",
+      "stop_id": "70201"
+    },
+    {
+      "trip_id": "435a",
+      "arrival_time": "14:27:00",
+      "stop_id": "70191"
+    },
+    {
+      "trip_id": "435a",
+      "arrival_time": "14:31:00",
+      "stop_id": "70171"
+    },
+    {
+      "trip_id": "435a",
+      "arrival_time": "14:34:00",
+      "stop_id": "70161"
+    },
+    {
+      "trip_id": "435a",
+      "arrival_time": "14:37:00",
+      "stop_id": "70151"
+    },
+    {
+      "trip_id": "435a",
+      "arrival_time": "14:41:00",
+      "stop_id": "70141"
+    },
+    {
+      "trip_id": "435a",
+      "arrival_time": "14:45:00",
+      "stop_id": "70131"
+    },
+    {
+      "trip_id": "435a",
+      "arrival_time": "14:48:00",
+      "stop_id": "70121"
+    },
+    {
+      "trip_id": "435a",
+      "arrival_time": "14:51:00",
+      "stop_id": "70111"
+    },
+    {
+      "trip_id": "435a",
+      "arrival_time": "14:54:00",
+      "stop_id": "70101"
+    },
+    {
+      "trip_id": "435a",
+      "arrival_time": "14:57:00",
+      "stop_id": "70091"
+    },
+    {
+      "trip_id": "435a",
+      "arrival_time": "15:02:00",
+      "stop_id": "70081"
+    },
+    {
+      "trip_id": "435a",
+      "arrival_time": "15:05:00",
+      "stop_id": "70071"
+    },
+    {
+      "trip_id": "435a",
+      "arrival_time": "15:10:00",
+      "stop_id": "70061"
+    },
+    {
+      "trip_id": "435a",
+      "arrival_time": "15:14:00",
+      "stop_id": "70051"
+    },
+    {
+      "trip_id": "435a",
+      "arrival_time": "15:19:00",
+      "stop_id": "70041"
+    },
+    {
+      "trip_id": "435a",
+      "arrival_time": "15:25:00",
+      "stop_id": "70031"
+    },
+    {
+      "trip_id": "435a",
+      "arrival_time": "15:30:00",
+      "stop_id": "70021"
+    },
+    {
+      "trip_id": "435a",
+      "arrival_time": "15:38:00",
+      "stop_id": "70011"
+    }
+  ],
+  [
+    {
+      "trip_id": "437a",
+      "arrival_time": "15:00:00",
+      "stop_id": "70261"
+    },
+    {
+      "trip_id": "437a",
+      "arrival_time": "15:05:00",
+      "stop_id": "70241"
+    },
+    {
+      "trip_id": "437a",
+      "arrival_time": "15:10:00",
+      "stop_id": "70231"
+    },
+    {
+      "trip_id": "437a",
+      "arrival_time": "15:14:00",
+      "stop_id": "70221"
+    },
+    {
+      "trip_id": "437a",
+      "arrival_time": "15:19:00",
+      "stop_id": "70211"
+    },
+    {
+      "trip_id": "437a",
+      "arrival_time": "15:23:00",
+      "stop_id": "70201"
+    },
+    {
+      "trip_id": "437a",
+      "arrival_time": "15:27:00",
+      "stop_id": "70191"
+    },
+    {
+      "trip_id": "437a",
+      "arrival_time": "15:31:00",
+      "stop_id": "70171"
+    },
+    {
+      "trip_id": "437a",
+      "arrival_time": "15:34:00",
+      "stop_id": "70161"
+    },
+    {
+      "trip_id": "437a",
+      "arrival_time": "15:37:00",
+      "stop_id": "70151"
+    },
+    {
+      "trip_id": "437a",
+      "arrival_time": "15:41:00",
+      "stop_id": "70141"
+    },
+    {
+      "trip_id": "437a",
+      "arrival_time": "15:45:00",
+      "stop_id": "70131"
+    },
+    {
+      "trip_id": "437a",
+      "arrival_time": "15:48:00",
+      "stop_id": "70121"
+    },
+    {
+      "trip_id": "437a",
+      "arrival_time": "15:51:00",
+      "stop_id": "70111"
+    },
+    {
+      "trip_id": "437a",
+      "arrival_time": "15:54:00",
+      "stop_id": "70101"
+    },
+    {
+      "trip_id": "437a",
+      "arrival_time": "15:57:00",
+      "stop_id": "70091"
+    },
+    {
+      "trip_id": "437a",
+      "arrival_time": "16:02:00",
+      "stop_id": "70081"
+    },
+    {
+      "trip_id": "437a",
+      "arrival_time": "16:05:00",
+      "stop_id": "70071"
+    },
+    {
+      "trip_id": "437a",
+      "arrival_time": "16:10:00",
+      "stop_id": "70061"
+    },
+    {
+      "trip_id": "437a",
+      "arrival_time": "16:14:00",
+      "stop_id": "70051"
+    },
+    {
+      "trip_id": "437a",
+      "arrival_time": "16:19:00",
+      "stop_id": "70041"
+    },
+    {
+      "trip_id": "437a",
+      "arrival_time": "16:25:00",
+      "stop_id": "70031"
+    },
+    {
+      "trip_id": "437a",
+      "arrival_time": "16:30:00",
+      "stop_id": "70021"
+    },
+    {
+      "trip_id": "437a",
+      "arrival_time": "16:38:00",
+      "stop_id": "70011"
+    }
+  ],
+  [
+    {
+      "trip_id": "439a",
+      "arrival_time": "16:00:00",
+      "stop_id": "70261"
+    },
+    {
+      "trip_id": "439a",
+      "arrival_time": "16:05:00",
+      "stop_id": "70241"
+    },
+    {
+      "trip_id": "439a",
+      "arrival_time": "16:10:00",
+      "stop_id": "70231"
+    },
+    {
+      "trip_id": "439a",
+      "arrival_time": "16:14:00",
+      "stop_id": "70221"
+    },
+    {
+      "trip_id": "439a",
+      "arrival_time": "16:19:00",
+      "stop_id": "70211"
+    },
+    {
+      "trip_id": "439a",
+      "arrival_time": "16:23:00",
+      "stop_id": "70201"
+    },
+    {
+      "trip_id": "439a",
+      "arrival_time": "16:27:00",
+      "stop_id": "70191"
+    },
+    {
+      "trip_id": "439a",
+      "arrival_time": "16:31:00",
+      "stop_id": "70171"
+    },
+    {
+      "trip_id": "439a",
+      "arrival_time": "16:34:00",
+      "stop_id": "70161"
+    },
+    {
+      "trip_id": "439a",
+      "arrival_time": "16:37:00",
+      "stop_id": "70151"
+    },
+    {
+      "trip_id": "439a",
+      "arrival_time": "16:41:00",
+      "stop_id": "70141"
+    },
+    {
+      "trip_id": "439a",
+      "arrival_time": "16:45:00",
+      "stop_id": "70131"
+    },
+    {
+      "trip_id": "439a",
+      "arrival_time": "16:48:00",
+      "stop_id": "70121"
+    },
+    {
+      "trip_id": "439a",
+      "arrival_time": "16:51:00",
+      "stop_id": "70111"
+    },
+    {
+      "trip_id": "439a",
+      "arrival_time": "16:54:00",
+      "stop_id": "70101"
+    },
+    {
+      "trip_id": "439a",
+      "arrival_time": "16:57:00",
+      "stop_id": "70091"
+    },
+    {
+      "trip_id": "439a",
+      "arrival_time": "17:02:00",
+      "stop_id": "70081"
+    },
+    {
+      "trip_id": "439a",
+      "arrival_time": "17:05:00",
+      "stop_id": "70071"
+    },
+    {
+      "trip_id": "439a",
+      "arrival_time": "17:10:00",
+      "stop_id": "70061"
+    },
+    {
+      "trip_id": "439a",
+      "arrival_time": "17:14:00",
+      "stop_id": "70051"
+    },
+    {
+      "trip_id": "439a",
+      "arrival_time": "17:19:00",
+      "stop_id": "70041"
+    },
+    {
+      "trip_id": "439a",
+      "arrival_time": "17:25:00",
+      "stop_id": "70031"
+    },
+    {
+      "trip_id": "439a",
+      "arrival_time": "17:30:00",
+      "stop_id": "70021"
+    },
+    {
+      "trip_id": "439a",
+      "arrival_time": "17:38:00",
+      "stop_id": "70011"
+    }
+  ],
+  [
+    {
+      "trip_id": "441a",
+      "arrival_time": "17:00:00",
+      "stop_id": "70261"
+    },
+    {
+      "trip_id": "441a",
+      "arrival_time": "17:05:00",
+      "stop_id": "70241"
+    },
+    {
+      "trip_id": "441a",
+      "arrival_time": "17:10:00",
+      "stop_id": "70231"
+    },
+    {
+      "trip_id": "441a",
+      "arrival_time": "17:14:00",
+      "stop_id": "70221"
+    },
+    {
+      "trip_id": "441a",
+      "arrival_time": "17:19:00",
+      "stop_id": "70211"
+    },
+    {
+      "trip_id": "441a",
+      "arrival_time": "17:23:00",
+      "stop_id": "70201"
+    },
+    {
+      "trip_id": "441a",
+      "arrival_time": "17:27:00",
+      "stop_id": "70191"
+    },
+    {
+      "trip_id": "441a",
+      "arrival_time": "17:31:00",
+      "stop_id": "70171"
+    },
+    {
+      "trip_id": "441a",
+      "arrival_time": "17:34:00",
+      "stop_id": "70161"
+    },
+    {
+      "trip_id": "441a",
+      "arrival_time": "17:37:00",
+      "stop_id": "70151"
+    },
+    {
+      "trip_id": "441a",
+      "arrival_time": "17:41:00",
+      "stop_id": "70141"
+    },
+    {
+      "trip_id": "441a",
+      "arrival_time": "17:45:00",
+      "stop_id": "70131"
+    },
+    {
+      "trip_id": "441a",
+      "arrival_time": "17:48:00",
+      "stop_id": "70121"
+    },
+    {
+      "trip_id": "441a",
+      "arrival_time": "17:51:00",
+      "stop_id": "70111"
+    },
+    {
+      "trip_id": "441a",
+      "arrival_time": "17:54:00",
+      "stop_id": "70101"
+    },
+    {
+      "trip_id": "441a",
+      "arrival_time": "17:57:00",
+      "stop_id": "70091"
+    },
+    {
+      "trip_id": "441a",
+      "arrival_time": "18:02:00",
+      "stop_id": "70081"
+    },
+    {
+      "trip_id": "441a",
+      "arrival_time": "18:05:00",
+      "stop_id": "70071"
+    },
+    {
+      "trip_id": "441a",
+      "arrival_time": "18:10:00",
+      "stop_id": "70061"
+    },
+    {
+      "trip_id": "441a",
+      "arrival_time": "18:14:00",
+      "stop_id": "70051"
+    },
+    {
+      "trip_id": "441a",
+      "arrival_time": "18:19:00",
+      "stop_id": "70041"
+    },
+    {
+      "trip_id": "441a",
+      "arrival_time": "18:25:00",
+      "stop_id": "70031"
+    },
+    {
+      "trip_id": "441a",
+      "arrival_time": "18:30:00",
+      "stop_id": "70021"
+    },
+    {
+      "trip_id": "441a",
+      "arrival_time": "18:38:00",
+      "stop_id": "70011"
+    }
+  ],
+  [
+    {
+      "trip_id": "443a",
+      "arrival_time": "18:00:00",
+      "stop_id": "70261"
+    },
+    {
+      "trip_id": "443a",
+      "arrival_time": "18:05:00",
+      "stop_id": "70241"
+    },
+    {
+      "trip_id": "443a",
+      "arrival_time": "18:10:00",
+      "stop_id": "70231"
+    },
+    {
+      "trip_id": "443a",
+      "arrival_time": "18:14:00",
+      "stop_id": "70221"
+    },
+    {
+      "trip_id": "443a",
+      "arrival_time": "18:19:00",
+      "stop_id": "70211"
+    },
+    {
+      "trip_id": "443a",
+      "arrival_time": "18:23:00",
+      "stop_id": "70201"
+    },
+    {
+      "trip_id": "443a",
+      "arrival_time": "18:27:00",
+      "stop_id": "70191"
+    },
+    {
+      "trip_id": "443a",
+      "arrival_time": "18:31:00",
+      "stop_id": "70171"
+    },
+    {
+      "trip_id": "443a",
+      "arrival_time": "18:34:00",
+      "stop_id": "70161"
+    },
+    {
+      "trip_id": "443a",
+      "arrival_time": "18:37:00",
+      "stop_id": "70151"
+    },
+    {
+      "trip_id": "443a",
+      "arrival_time": "18:41:00",
+      "stop_id": "70141"
+    },
+    {
+      "trip_id": "443a",
+      "arrival_time": "18:45:00",
+      "stop_id": "70131"
+    },
+    {
+      "trip_id": "443a",
+      "arrival_time": "18:48:00",
+      "stop_id": "70121"
+    },
+    {
+      "trip_id": "443a",
+      "arrival_time": "18:51:00",
+      "stop_id": "70111"
+    },
+    {
+      "trip_id": "443a",
+      "arrival_time": "18:54:00",
+      "stop_id": "70101"
+    },
+    {
+      "trip_id": "443a",
+      "arrival_time": "18:57:00",
+      "stop_id": "70091"
+    },
+    {
+      "trip_id": "443a",
+      "arrival_time": "19:02:00",
+      "stop_id": "70081"
+    },
+    {
+      "trip_id": "443a",
+      "arrival_time": "19:05:00",
+      "stop_id": "70071"
+    },
+    {
+      "trip_id": "443a",
+      "arrival_time": "19:10:00",
+      "stop_id": "70061"
+    },
+    {
+      "trip_id": "443a",
+      "arrival_time": "19:14:00",
+      "stop_id": "70051"
+    },
+    {
+      "trip_id": "443a",
+      "arrival_time": "19:19:00",
+      "stop_id": "70041"
+    },
+    {
+      "trip_id": "443a",
+      "arrival_time": "19:25:00",
+      "stop_id": "70031"
+    },
+    {
+      "trip_id": "443a",
+      "arrival_time": "19:30:00",
+      "stop_id": "70021"
+    },
+    {
+      "trip_id": "443a",
+      "arrival_time": "19:38:00",
+      "stop_id": "70011"
+    }
+  ],
+  [
+    {
+      "trip_id": "445a",
+      "arrival_time": "19:00:00",
+      "stop_id": "70261"
+    },
+    {
+      "trip_id": "445a",
+      "arrival_time": "19:05:00",
+      "stop_id": "70241"
+    },
+    {
+      "trip_id": "445a",
+      "arrival_time": "19:10:00",
+      "stop_id": "70231"
+    },
+    {
+      "trip_id": "445a",
+      "arrival_time": "19:14:00",
+      "stop_id": "70221"
+    },
+    {
+      "trip_id": "445a",
+      "arrival_time": "19:19:00",
+      "stop_id": "70211"
+    },
+    {
+      "trip_id": "445a",
+      "arrival_time": "19:23:00",
+      "stop_id": "70201"
+    },
+    {
+      "trip_id": "445a",
+      "arrival_time": "19:27:00",
+      "stop_id": "70191"
+    },
+    {
+      "trip_id": "445a",
+      "arrival_time": "19:31:00",
+      "stop_id": "70171"
+    },
+    {
+      "trip_id": "445a",
+      "arrival_time": "19:34:00",
+      "stop_id": "70161"
+    },
+    {
+      "trip_id": "445a",
+      "arrival_time": "19:37:00",
+      "stop_id": "70151"
+    },
+    {
+      "trip_id": "445a",
+      "arrival_time": "19:41:00",
+      "stop_id": "70141"
+    },
+    {
+      "trip_id": "445a",
+      "arrival_time": "19:45:00",
+      "stop_id": "70131"
+    },
+    {
+      "trip_id": "445a",
+      "arrival_time": "19:48:00",
+      "stop_id": "70121"
+    },
+    {
+      "trip_id": "445a",
+      "arrival_time": "19:51:00",
+      "stop_id": "70111"
+    },
+    {
+      "trip_id": "445a",
+      "arrival_time": "19:54:00",
+      "stop_id": "70101"
+    },
+    {
+      "trip_id": "445a",
+      "arrival_time": "19:57:00",
+      "stop_id": "70091"
+    },
+    {
+      "trip_id": "445a",
+      "arrival_time": "20:02:00",
+      "stop_id": "70081"
+    },
+    {
+      "trip_id": "445a",
+      "arrival_time": "20:05:00",
+      "stop_id": "70071"
+    },
+    {
+      "trip_id": "445a",
+      "arrival_time": "20:10:00",
+      "stop_id": "70061"
+    },
+    {
+      "trip_id": "445a",
+      "arrival_time": "20:14:00",
+      "stop_id": "70051"
+    },
+    {
+      "trip_id": "445a",
+      "arrival_time": "20:19:00",
+      "stop_id": "70041"
+    },
+    {
+      "trip_id": "445a",
+      "arrival_time": "20:25:00",
+      "stop_id": "70031"
+    },
+    {
+      "trip_id": "445a",
+      "arrival_time": "20:30:00",
+      "stop_id": "70021"
+    },
+    {
+      "trip_id": "445a",
+      "arrival_time": "20:38:00",
+      "stop_id": "70011"
+    }
+  ],
+  [
+    {
+      "trip_id": "447a",
+      "arrival_time": "20:00:00",
+      "stop_id": "70261"
+    },
+    {
+      "trip_id": "447a",
+      "arrival_time": "20:05:00",
+      "stop_id": "70241"
+    },
+    {
+      "trip_id": "447a",
+      "arrival_time": "20:10:00",
+      "stop_id": "70231"
+    },
+    {
+      "trip_id": "447a",
+      "arrival_time": "20:14:00",
+      "stop_id": "70221"
+    },
+    {
+      "trip_id": "447a",
+      "arrival_time": "20:19:00",
+      "stop_id": "70211"
+    },
+    {
+      "trip_id": "447a",
+      "arrival_time": "20:23:00",
+      "stop_id": "70201"
+    },
+    {
+      "trip_id": "447a",
+      "arrival_time": "20:27:00",
+      "stop_id": "70191"
+    },
+    {
+      "trip_id": "447a",
+      "arrival_time": "20:31:00",
+      "stop_id": "70171"
+    },
+    {
+      "trip_id": "447a",
+      "arrival_time": "20:34:00",
+      "stop_id": "70161"
+    },
+    {
+      "trip_id": "447a",
+      "arrival_time": "20:37:00",
+      "stop_id": "70151"
+    },
+    {
+      "trip_id": "447a",
+      "arrival_time": "20:41:00",
+      "stop_id": "70141"
+    },
+    {
+      "trip_id": "447a",
+      "arrival_time": "20:45:00",
+      "stop_id": "70131"
+    },
+    {
+      "trip_id": "447a",
+      "arrival_time": "20:48:00",
+      "stop_id": "70121"
+    },
+    {
+      "trip_id": "447a",
+      "arrival_time": "20:51:00",
+      "stop_id": "70111"
+    },
+    {
+      "trip_id": "447a",
+      "arrival_time": "20:54:00",
+      "stop_id": "70101"
+    },
+    {
+      "trip_id": "447a",
+      "arrival_time": "20:57:00",
+      "stop_id": "70091"
+    },
+    {
+      "trip_id": "447a",
+      "arrival_time": "21:02:00",
+      "stop_id": "70081"
+    },
+    {
+      "trip_id": "447a",
+      "arrival_time": "21:05:00",
+      "stop_id": "70071"
+    },
+    {
+      "trip_id": "447a",
+      "arrival_time": "21:10:00",
+      "stop_id": "70061"
+    },
+    {
+      "trip_id": "447a",
+      "arrival_time": "21:14:00",
+      "stop_id": "70051"
+    },
+    {
+      "trip_id": "447a",
+      "arrival_time": "21:19:00",
+      "stop_id": "70041"
+    },
+    {
+      "trip_id": "447a",
+      "arrival_time": "21:25:00",
+      "stop_id": "70031"
+    },
+    {
+      "trip_id": "447a",
+      "arrival_time": "21:30:00",
+      "stop_id": "70021"
+    },
+    {
+      "trip_id": "447a",
+      "arrival_time": "21:38:00",
+      "stop_id": "70011"
+    }
+  ],
+  [
+    {
+      "trip_id": "449a",
+      "arrival_time": "21:00:00",
+      "stop_id": "70261"
+    },
+    {
+      "trip_id": "449a",
+      "arrival_time": "21:05:00",
+      "stop_id": "70241"
+    },
+    {
+      "trip_id": "449a",
+      "arrival_time": "21:10:00",
+      "stop_id": "70231"
+    },
+    {
+      "trip_id": "449a",
+      "arrival_time": "21:14:00",
+      "stop_id": "70221"
+    },
+    {
+      "trip_id": "449a",
+      "arrival_time": "21:19:00",
+      "stop_id": "70211"
+    },
+    {
+      "trip_id": "449a",
+      "arrival_time": "21:23:00",
+      "stop_id": "70201"
+    },
+    {
+      "trip_id": "449a",
+      "arrival_time": "21:27:00",
+      "stop_id": "70191"
+    },
+    {
+      "trip_id": "449a",
+      "arrival_time": "21:31:00",
+      "stop_id": "70171"
+    },
+    {
+      "trip_id": "449a",
+      "arrival_time": "21:34:00",
+      "stop_id": "70161"
+    },
+    {
+      "trip_id": "449a",
+      "arrival_time": "21:37:00",
+      "stop_id": "70151"
+    },
+    {
+      "trip_id": "449a",
+      "arrival_time": "21:41:00",
+      "stop_id": "70141"
+    },
+    {
+      "trip_id": "449a",
+      "arrival_time": "21:45:00",
+      "stop_id": "70131"
+    },
+    {
+      "trip_id": "449a",
+      "arrival_time": "21:48:00",
+      "stop_id": "70121"
+    },
+    {
+      "trip_id": "449a",
+      "arrival_time": "21:51:00",
+      "stop_id": "70111"
+    },
+    {
+      "trip_id": "449a",
+      "arrival_time": "21:54:00",
+      "stop_id": "70101"
+    },
+    {
+      "trip_id": "449a",
+      "arrival_time": "21:57:00",
+      "stop_id": "70091"
+    },
+    {
+      "trip_id": "449a",
+      "arrival_time": "22:02:00",
+      "stop_id": "70081"
+    },
+    {
+      "trip_id": "449a",
+      "arrival_time": "22:05:00",
+      "stop_id": "70071"
+    },
+    {
+      "trip_id": "449a",
+      "arrival_time": "22:10:00",
+      "stop_id": "70061"
+    },
+    {
+      "trip_id": "449a",
+      "arrival_time": "22:14:00",
+      "stop_id": "70051"
+    },
+    {
+      "trip_id": "449a",
+      "arrival_time": "22:19:00",
+      "stop_id": "70041"
+    },
+    {
+      "trip_id": "449a",
+      "arrival_time": "22:25:00",
+      "stop_id": "70031"
+    },
+    {
+      "trip_id": "449a",
+      "arrival_time": "22:30:00",
+      "stop_id": "70021"
+    },
+    {
+      "trip_id": "449a",
+      "arrival_time": "22:38:00",
+      "stop_id": "70011"
+    }
+  ],
+  [
+    {
+      "trip_id": "451a",
+      "arrival_time": "22:30:00",
+      "stop_id": "70261"
+    },
+    {
+      "trip_id": "451a",
+      "arrival_time": "22:35:00",
+      "stop_id": "70241"
+    },
+    {
+      "trip_id": "451a",
+      "arrival_time": "22:40:00",
+      "stop_id": "70231"
+    },
+    {
+      "trip_id": "451a",
+      "arrival_time": "22:44:00",
+      "stop_id": "70221"
+    },
+    {
+      "trip_id": "451a",
+      "arrival_time": "22:49:00",
+      "stop_id": "70211"
+    },
+    {
+      "trip_id": "451a",
+      "arrival_time": "22:53:00",
+      "stop_id": "70201"
+    },
+    {
+      "trip_id": "451a",
+      "arrival_time": "22:57:00",
+      "stop_id": "70191"
+    },
+    {
+      "trip_id": "451a",
+      "arrival_time": "23:01:00",
+      "stop_id": "70171"
+    },
+    {
+      "trip_id": "451a",
+      "arrival_time": "23:04:00",
+      "stop_id": "70161"
+    },
+    {
+      "trip_id": "451a",
+      "arrival_time": "23:07:00",
+      "stop_id": "70151"
+    },
+    {
+      "trip_id": "451a",
+      "arrival_time": "23:11:00",
+      "stop_id": "70141"
+    },
+    {
+      "trip_id": "451a",
+      "arrival_time": "23:15:00",
+      "stop_id": "70131"
+    },
+    {
+      "trip_id": "451a",
+      "arrival_time": "23:18:00",
+      "stop_id": "70121"
+    },
+    {
+      "trip_id": "451a",
+      "arrival_time": "23:21:00",
+      "stop_id": "70111"
+    },
+    {
+      "trip_id": "451a",
+      "arrival_time": "23:24:00",
+      "stop_id": "70101"
+    },
+    {
+      "trip_id": "451a",
+      "arrival_time": "23:27:00",
+      "stop_id": "70091"
+    },
+    {
+      "trip_id": "451a",
+      "arrival_time": "23:32:00",
+      "stop_id": "70081"
+    },
+    {
+      "trip_id": "451a",
+      "arrival_time": "23:35:00",
+      "stop_id": "70071"
+    },
+    {
+      "trip_id": "451a",
+      "arrival_time": "23:40:00",
+      "stop_id": "70061"
+    },
+    {
+      "trip_id": "451a",
+      "arrival_time": "23:44:00",
+      "stop_id": "70051"
+    },
+    {
+      "trip_id": "451a",
+      "arrival_time": "23:49:00",
+      "stop_id": "70041"
+    },
+    {
+      "trip_id": "451a",
+      "arrival_time": "23:55:00",
+      "stop_id": "70031"
+    },
+    {
+      "trip_id": "451a",
+      "arrival_time": "24:00:00",
+      "stop_id": "70021"
+    },
+    {
+      "trip_id": "451a",
+      "arrival_time": "24:08:00",
+      "stop_id": "70011"
+    }
+  ],
+  [
+    {
+      "trip_id": "801a",
+      "arrival_time": "10:35:00",
+      "stop_id": "70261"
+    },
+    {
+      "trip_id": "801a",
+      "arrival_time": "10:45:00",
+      "stop_id": "70221"
+    },
+    {
+      "trip_id": "801a",
+      "arrival_time": "10:50:00",
+      "stop_id": "70211"
+    },
+    {
+      "trip_id": "801a",
+      "arrival_time": "10:58:00",
+      "stop_id": "70171"
+    },
+    {
+      "trip_id": "801a",
+      "arrival_time": "11:04:00",
+      "stop_id": "70141"
+    },
+    {
+      "trip_id": "801a",
+      "arrival_time": "11:10:00",
+      "stop_id": "70111"
+    },
+    {
+      "trip_id": "801a",
+      "arrival_time": "11:14:00",
+      "stop_id": "70091"
+    },
+    {
+      "trip_id": "801a",
+      "arrival_time": "11:23:00",
+      "stop_id": "70061"
+    },
+    {
+      "trip_id": "801a",
+      "arrival_time": "11:41:00",
+      "stop_id": "70011"
+    }
+  ],
+  [
+    {
+      "trip_id": "803a",
+      "arrival_time": "17:35:00",
+      "stop_id": "70261"
+    },
+    {
+      "trip_id": "803a",
+      "arrival_time": "17:45:00",
+      "stop_id": "70221"
+    },
+    {
+      "trip_id": "803a",
+      "arrival_time": "17:50:00",
+      "stop_id": "70211"
+    },
+    {
+      "trip_id": "803a",
+      "arrival_time": "17:58:00",
+      "stop_id": "70171"
+    },
+    {
+      "trip_id": "803a",
+      "arrival_time": "18:04:00",
+      "stop_id": "70141"
+    },
+    {
+      "trip_id": "803a",
+      "arrival_time": "18:10:00",
+      "stop_id": "70111"
+    },
+    {
+      "trip_id": "803a",
+      "arrival_time": "18:14:00",
+      "stop_id": "70091"
+    },
+    {
+      "trip_id": "803a",
+      "arrival_time": "18:23:00",
+      "stop_id": "70061"
+    },
+    {
+      "trip_id": "803a",
+      "arrival_time": "18:41:00",
+      "stop_id": "70011"
+    }
+  ]
+]

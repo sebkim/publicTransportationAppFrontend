@@ -13,13 +13,13 @@ html, body {
 #formPart {
   padding-top: 2em;
   background: #d9edf7;
-  height: 100vh;
+  height: 100%;
 }
 
 #infoPart {
   padding-top: 2em;
   background: #d5f5f6;
-  height: 98vh;
+  height: 97%;
 }
 
 .bodyPart {
@@ -28,5 +28,13 @@ html, body {
 
 #indicatorPart {
   background: #edf0c1;
-  height: 3vh;
+  height: 3%;
+}
+
+hr {
+  border-color: black;
+}
+
+li {
+  font-weight: bold;
 }

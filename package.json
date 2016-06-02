@@ -15,10 +15,17 @@
         "gulp-concat": ">=2.6.0",
         "gulp-watch": ">=4.3.6",
         "gulp-gh-pages": ">=0.5.4",
-        "gtfs": ">=0.4.5"
+        "gtfs": ">=0.4.5",
+        "browserify": ">=13.0.1",
+        "vinyl-source-stream": ">=1.1.0",
+        "gulp-flatten": ">=0.2.0",
+        "gulp-connect": ">=4.0.0",
+        "run-sequence": ">=1.2.1"
     },
     "scripts": {
         "minifyAll": "gulp",
-        "gtfsImport": "cd node_modules/gtfs && npm run download"
+        "gtfsImport": "cd node_modules/gtfs && npm run download",
+        "serve": "gulp serve",
+        "install_bower_comps": "gulp installBowerComps"
     }
 }

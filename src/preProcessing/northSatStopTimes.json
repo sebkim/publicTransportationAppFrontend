@@ -1,31 +1,7 @@
 [
   [
     {
-      "_id": "574c0966b47e266245054881",
-      "trip_id": "25a",
-      "arrival_time": "8:33:00",
-      "departure_time": "8:33:00",
-      "stop_id": "777403",
-      "stop_sequence": 1,
-      "pickup_type": 0,
-      "drop_off_type": 0,
-      "agency_key": "caltrain-agency-key"
-    },
-    {
-      "_id": "574c0966b47e266245054882",
-      "trip_id": "25a",
-      "arrival_time": "8:45:00",
-      "departure_time": "8:45:00",
-      "stop_id": "777402",
-      "stop_sequence": 2,
-      "pickup_type": 0,
-      "drop_off_type": 0,
-      "agency_key": "caltrain-agency-key"
-    }
-  ],
-  [
-    {
-      "_id": "574c0966b47e26624505487f",
+      "_id": "574c23a21e1becf54ae9d823",
       "trip_id": "23a",
       "arrival_time": "7:33:00",
       "departure_time": "7:33:00",
@@ -36,7 +12,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054880",
+      "_id": "574c23a21e1becf54ae9d824",
       "trip_id": "23a",
       "arrival_time": "7:45:00",
       "departure_time": "7:45:00",
@@ -49,7 +25,31 @@
   ],
   [
     {
-      "_id": "574c0966b47e266245054883",
+      "_id": "574c23a21e1becf54ae9d825",
+      "trip_id": "25a",
+      "arrival_time": "8:33:00",
+      "departure_time": "8:33:00",
+      "stop_id": "777403",
+      "stop_sequence": 1,
+      "pickup_type": 0,
+      "drop_off_type": 0,
+      "agency_key": "caltrain-agency-key"
+    },
+    {
+      "_id": "574c23a21e1becf54ae9d826",
+      "trip_id": "25a",
+      "arrival_time": "8:45:00",
+      "departure_time": "8:45:00",
+      "stop_id": "777402",
+      "stop_sequence": 2,
+      "pickup_type": 0,
+      "drop_off_type": 0,
+      "agency_key": "caltrain-agency-key"
+    }
+  ],
+  [
+    {
+      "_id": "574c23a21e1becf54ae9d827",
       "trip_id": "27a",
       "arrival_time": "9:33:00",
       "departure_time": "9:33:00",
@@ -60,7 +60,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054884",
+      "_id": "574c23a21e1becf54ae9d828",
       "trip_id": "27a",
       "arrival_time": "9:45:00",
       "departure_time": "9:45:00",
@@ -73,7 +73,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e266245054885",
+      "_id": "574c23a21e1becf54ae9d829",
       "trip_id": "01a",
       "arrival_time": "10:10:00",
       "departure_time": "10:10:00",
@@ -84,7 +84,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054886",
+      "_id": "574c23a21e1becf54ae9d82a",
       "trip_id": "01a",
       "arrival_time": "10:22:00",
       "departure_time": "10:22:00",
@@ -97,7 +97,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e266245054887",
+      "_id": "574c23a21e1becf54ae9d82b",
       "trip_id": "29a",
       "arrival_time": "10:33:00",
       "departure_time": "10:33:00",
@@ -108,7 +108,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054888",
+      "_id": "574c23a21e1becf54ae9d82c",
       "trip_id": "29a",
       "arrival_time": "10:45:00",
       "departure_time": "10:45:00",
@@ -121,7 +121,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e266245054889",
+      "_id": "574c23a21e1becf54ae9d82d",
       "trip_id": "31a",
       "arrival_time": "11:33:00",
       "departure_time": "11:33:00",
@@ -132,7 +132,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505488a",
+      "_id": "574c23a21e1becf54ae9d82e",
       "trip_id": "31a",
       "arrival_time": "11:45:00",
       "departure_time": "11:45:00",
@@ -145,7 +145,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e26624505488b",
+      "_id": "574c23a21e1becf54ae9d82f",
       "trip_id": "33a",
       "arrival_time": "12:33:00",
       "departure_time": "12:33:00",
@@ -156,7 +156,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505488c",
+      "_id": "574c23a21e1becf54ae9d830",
       "trip_id": "33a",
       "arrival_time": "12:45:00",
       "departure_time": "12:45:00",
@@ -169,7 +169,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e26624505488d",
+      "_id": "574c23a21e1becf54ae9d831",
       "trip_id": "35a",
       "arrival_time": "13:33:00",
       "departure_time": "13:33:00",
@@ -180,7 +180,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505488e",
+      "_id": "574c23a21e1becf54ae9d832",
       "trip_id": "35a",
       "arrival_time": "13:45:00",
       "departure_time": "13:45:00",
@@ -193,7 +193,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e26624505488f",
+      "_id": "574c23a21e1becf54ae9d833",
       "trip_id": "37a",
       "arrival_time": "14:33:00",
       "departure_time": "14:33:00",
@@ -204,7 +204,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054890",
+      "_id": "574c23a21e1becf54ae9d834",
       "trip_id": "37a",
       "arrival_time": "14:45:00",
       "departure_time": "14:45:00",
@@ -217,7 +217,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e266245054891",
+      "_id": "574c23a21e1becf54ae9d835",
       "trip_id": "39a",
       "arrival_time": "15:33:00",
       "departure_time": "15:33:00",
@@ -228,7 +228,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054892",
+      "_id": "574c23a21e1becf54ae9d836",
       "trip_id": "39a",
       "arrival_time": "15:45:00",
       "departure_time": "15:45:00",
@@ -241,7 +241,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e266245054893",
+      "_id": "574c23a21e1becf54ae9d837",
       "trip_id": "41a",
       "arrival_time": "16:33:00",
       "departure_time": "16:33:00",
@@ -252,7 +252,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054894",
+      "_id": "574c23a21e1becf54ae9d838",
       "trip_id": "41a",
       "arrival_time": "16:45:00",
       "departure_time": "16:45:00",
@@ -265,7 +265,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e266245054895",
+      "_id": "574c23a21e1becf54ae9d839",
       "trip_id": "03a",
       "arrival_time": "17:10:00",
       "departure_time": "17:10:00",
@@ -276,7 +276,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054896",
+      "_id": "574c23a21e1becf54ae9d83a",
       "trip_id": "03a",
       "arrival_time": "17:22:00",
       "departure_time": "17:22:00",
@@ -289,7 +289,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e266245054897",
+      "_id": "574c23a21e1becf54ae9d83b",
       "trip_id": "43a",
       "arrival_time": "17:33:00",
       "departure_time": "17:33:00",
@@ -300,7 +300,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054898",
+      "_id": "574c23a21e1becf54ae9d83c",
       "trip_id": "43a",
       "arrival_time": "17:45:00",
       "departure_time": "17:45:00",
@@ -313,7 +313,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e266245054899",
+      "_id": "574c23a21e1becf54ae9d83d",
       "trip_id": "45a",
       "arrival_time": "18:33:00",
       "departure_time": "18:33:00",
@@ -324,7 +324,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505489a",
+      "_id": "574c23a21e1becf54ae9d83e",
       "trip_id": "45a",
       "arrival_time": "18:45:00",
       "departure_time": "18:45:00",
@@ -337,7 +337,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e26624505489b",
+      "_id": "574c23a21e1becf54ae9d83f",
       "trip_id": "47a",
       "arrival_time": "19:33:00",
       "departure_time": "19:33:00",
@@ -348,7 +348,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505489c",
+      "_id": "574c23a21e1becf54ae9d840",
       "trip_id": "47a",
       "arrival_time": "19:45:00",
       "departure_time": "19:45:00",
@@ -361,7 +361,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e26624505489d",
+      "_id": "574c23a21e1becf54ae9d841",
       "trip_id": "49a",
       "arrival_time": "20:33:00",
       "departure_time": "20:33:00",
@@ -372,7 +372,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505489e",
+      "_id": "574c23a21e1becf54ae9d842",
       "trip_id": "49a",
       "arrival_time": "20:45:00",
       "departure_time": "20:45:00",
@@ -385,7 +385,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e2662450548b9",
+      "_id": "574c23a21e1becf54ae9d85d",
       "trip_id": "421a",
       "arrival_time": "7:00:00",
       "departure_time": "7:00:00",
@@ -396,7 +396,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548ba",
+      "_id": "574c23a21e1becf54ae9d85e",
       "trip_id": "421a",
       "arrival_time": "7:05:00",
       "departure_time": "7:05:00",
@@ -407,7 +407,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548bb",
+      "_id": "574c23a21e1becf54ae9d85f",
       "trip_id": "421a",
       "arrival_time": "7:10:00",
       "departure_time": "7:10:00",
@@ -418,7 +418,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548bc",
+      "_id": "574c23a21e1becf54ae9d860",
       "trip_id": "421a",
       "arrival_time": "7:14:00",
       "departure_time": "7:14:00",
@@ -429,7 +429,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548bd",
+      "_id": "574c23a21e1becf54ae9d861",
       "trip_id": "421a",
       "arrival_time": "7:19:00",
       "departure_time": "7:19:00",
@@ -440,7 +440,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548be",
+      "_id": "574c23a21e1becf54ae9d862",
       "trip_id": "421a",
       "arrival_time": "7:23:00",
       "departure_time": "7:23:00",
@@ -451,7 +451,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548bf",
+      "_id": "574c23a21e1becf54ae9d863",
       "trip_id": "421a",
       "arrival_time": "7:27:00",
       "departure_time": "7:27:00",
@@ -462,7 +462,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548c0",
+      "_id": "574c23a21e1becf54ae9d864",
       "trip_id": "421a",
       "arrival_time": "7:31:00",
       "departure_time": "7:31:00",
@@ -473,7 +473,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548c1",
+      "_id": "574c23a21e1becf54ae9d865",
       "trip_id": "421a",
       "arrival_time": "7:34:00",
       "departure_time": "7:34:00",
@@ -484,7 +484,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548c2",
+      "_id": "574c23a21e1becf54ae9d866",
       "trip_id": "421a",
       "arrival_time": "7:37:00",
       "departure_time": "7:37:00",
@@ -495,7 +495,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548c3",
+      "_id": "574c23a21e1becf54ae9d867",
       "trip_id": "421a",
       "arrival_time": "7:41:00",
       "departure_time": "7:41:00",
@@ -506,7 +506,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548c4",
+      "_id": "574c23a21e1becf54ae9d868",
       "trip_id": "421a",
       "arrival_time": "7:45:00",
       "departure_time": "7:45:00",
@@ -517,7 +517,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548c5",
+      "_id": "574c23a21e1becf54ae9d869",
       "trip_id": "421a",
       "arrival_time": "7:48:00",
       "departure_time": "7:48:00",
@@ -528,7 +528,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548c6",
+      "_id": "574c23a21e1becf54ae9d86a",
       "trip_id": "421a",
       "arrival_time": "7:51:00",
       "departure_time": "7:51:00",
@@ -539,7 +539,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548c7",
+      "_id": "574c23a21e1becf54ae9d86b",
       "trip_id": "421a",
       "arrival_time": "7:54:00",
       "departure_time": "7:54:00",
@@ -550,7 +550,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548c8",
+      "_id": "574c23a21e1becf54ae9d86c",
       "trip_id": "421a",
       "arrival_time": "7:57:00",
       "departure_time": "7:57:00",
@@ -561,7 +561,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548c9",
+      "_id": "574c23a21e1becf54ae9d86d",
       "trip_id": "421a",
       "arrival_time": "8:02:00",
       "departure_time": "8:02:00",
@@ -572,7 +572,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548ca",
+      "_id": "574c23a21e1becf54ae9d86e",
       "trip_id": "421a",
       "arrival_time": "8:05:00",
       "departure_time": "8:05:00",
@@ -583,7 +583,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548cb",
+      "_id": "574c23a21e1becf54ae9d86f",
       "trip_id": "421a",
       "arrival_time": "8:10:00",
       "departure_time": "8:10:00",
@@ -594,7 +594,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548cc",
+      "_id": "574c23a21e1becf54ae9d870",
       "trip_id": "421a",
       "arrival_time": "8:14:00",
       "departure_time": "8:14:00",
@@ -605,7 +605,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548cd",
+      "_id": "574c23a21e1becf54ae9d871",
       "trip_id": "421a",
       "arrival_time": "8:19:00",
       "departure_time": "8:19:00",
@@ -616,7 +616,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548ce",
+      "_id": "574c23a21e1becf54ae9d872",
       "trip_id": "421a",
       "arrival_time": "8:25:00",
       "departure_time": "8:25:00",
@@ -627,7 +627,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548cf",
+      "_id": "574c23a21e1becf54ae9d873",
       "trip_id": "421a",
       "arrival_time": "8:30:00",
       "departure_time": "8:30:00",
@@ -638,7 +638,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548d0",
+      "_id": "574c23a21e1becf54ae9d874",
       "trip_id": "421a",
       "arrival_time": "8:38:00",
       "departure_time": "8:38:00",
@@ -651,7 +651,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e2662450548d1",
+      "_id": "574c23a21e1becf54ae9d875",
       "trip_id": "423a",
       "arrival_time": "8:00:00",
       "departure_time": "8:00:00",
@@ -662,7 +662,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548d2",
+      "_id": "574c23a21e1becf54ae9d876",
       "trip_id": "423a",
       "arrival_time": "8:05:00",
       "departure_time": "8:05:00",
@@ -673,7 +673,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548d3",
+      "_id": "574c23a21e1becf54ae9d877",
       "trip_id": "423a",
       "arrival_time": "8:10:00",
       "departure_time": "8:10:00",
@@ -684,7 +684,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548d4",
+      "_id": "574c23a21e1becf54ae9d878",
       "trip_id": "423a",
       "arrival_time": "8:14:00",
       "departure_time": "8:14:00",
@@ -695,7 +695,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548d5",
+      "_id": "574c23a21e1becf54ae9d879",
       "trip_id": "423a",
       "arrival_time": "8:19:00",
       "departure_time": "8:19:00",
@@ -706,7 +706,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548d6",
+      "_id": "574c23a21e1becf54ae9d87a",
       "trip_id": "423a",
       "arrival_time": "8:23:00",
       "departure_time": "8:23:00",
@@ -717,7 +717,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548d7",
+      "_id": "574c23a21e1becf54ae9d87b",
       "trip_id": "423a",
       "arrival_time": "8:27:00",
       "departure_time": "8:27:00",
@@ -728,7 +728,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548d8",
+      "_id": "574c23a21e1becf54ae9d87c",
       "trip_id": "423a",
       "arrival_time": "8:31:00",
       "departure_time": "8:31:00",
@@ -739,7 +739,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548d9",
+      "_id": "574c23a21e1becf54ae9d87d",
       "trip_id": "423a",
       "arrival_time": "8:34:00",
       "departure_time": "8:34:00",
@@ -750,7 +750,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548da",
+      "_id": "574c23a21e1becf54ae9d87e",
       "trip_id": "423a",
       "arrival_time": "8:37:00",
       "departure_time": "8:37:00",
@@ -761,7 +761,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548db",
+      "_id": "574c23a21e1becf54ae9d87f",
       "trip_id": "423a",
       "arrival_time": "8:41:00",
       "departure_time": "8:41:00",
@@ -772,7 +772,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548dc",
+      "_id": "574c23a21e1becf54ae9d880",
       "trip_id": "423a",
       "arrival_time": "8:45:00",
       "departure_time": "8:45:00",
@@ -783,7 +783,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548dd",
+      "_id": "574c23a21e1becf54ae9d881",
       "trip_id": "423a",
       "arrival_time": "8:48:00",
       "departure_time": "8:48:00",
@@ -794,7 +794,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548de",
+      "_id": "574c23a21e1becf54ae9d882",
       "trip_id": "423a",
       "arrival_time": "8:51:00",
       "departure_time": "8:51:00",
@@ -805,7 +805,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548df",
+      "_id": "574c23a21e1becf54ae9d883",
       "trip_id": "423a",
       "arrival_time": "8:54:00",
       "departure_time": "8:54:00",
@@ -816,7 +816,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548e0",
+      "_id": "574c23a21e1becf54ae9d884",
       "trip_id": "423a",
       "arrival_time": "8:57:00",
       "departure_time": "8:57:00",
@@ -827,7 +827,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548e1",
+      "_id": "574c23a21e1becf54ae9d885",
       "trip_id": "423a",
       "arrival_time": "9:02:00",
       "departure_time": "9:02:00",
@@ -838,7 +838,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548e2",
+      "_id": "574c23a21e1becf54ae9d886",
       "trip_id": "423a",
       "arrival_time": "9:05:00",
       "departure_time": "9:05:00",
@@ -849,7 +849,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548e3",
+      "_id": "574c23a21e1becf54ae9d887",
       "trip_id": "423a",
       "arrival_time": "9:10:00",
       "departure_time": "9:10:00",
@@ -860,7 +860,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548e4",
+      "_id": "574c23a21e1becf54ae9d888",
       "trip_id": "423a",
       "arrival_time": "9:14:00",
       "departure_time": "9:14:00",
@@ -871,7 +871,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548e5",
+      "_id": "574c23a21e1becf54ae9d889",
       "trip_id": "423a",
       "arrival_time": "9:19:00",
       "departure_time": "9:19:00",
@@ -882,7 +882,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548e6",
+      "_id": "574c23a21e1becf54ae9d88a",
       "trip_id": "423a",
       "arrival_time": "9:25:00",
       "departure_time": "9:25:00",
@@ -893,7 +893,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548e7",
+      "_id": "574c23a21e1becf54ae9d88b",
       "trip_id": "423a",
       "arrival_time": "9:30:00",
       "departure_time": "9:30:00",
@@ -904,7 +904,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548e8",
+      "_id": "574c23a21e1becf54ae9d88c",
       "trip_id": "423a",
       "arrival_time": "9:38:00",
       "departure_time": "9:38:00",
@@ -917,7 +917,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e2662450548e9",
+      "_id": "574c23a21e1becf54ae9d88d",
       "trip_id": "425a",
       "arrival_time": "9:00:00",
       "departure_time": "9:00:00",
@@ -928,7 +928,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548ea",
+      "_id": "574c23a21e1becf54ae9d88e",
       "trip_id": "425a",
       "arrival_time": "9:05:00",
       "departure_time": "9:05:00",
@@ -939,7 +939,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548eb",
+      "_id": "574c23a21e1becf54ae9d88f",
       "trip_id": "425a",
       "arrival_time": "9:10:00",
       "departure_time": "9:10:00",
@@ -950,7 +950,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548ec",
+      "_id": "574c23a21e1becf54ae9d890",
       "trip_id": "425a",
       "arrival_time": "9:14:00",
       "departure_time": "9:14:00",
@@ -961,7 +961,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548ed",
+      "_id": "574c23a21e1becf54ae9d891",
       "trip_id": "425a",
       "arrival_time": "9:19:00",
       "departure_time": "9:19:00",
@@ -972,7 +972,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548ee",
+      "_id": "574c23a21e1becf54ae9d892",
       "trip_id": "425a",
       "arrival_time": "9:23:00",
       "departure_time": "9:23:00",
@@ -983,7 +983,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548ef",
+      "_id": "574c23a21e1becf54ae9d893",
       "trip_id": "425a",
       "arrival_time": "9:27:00",
       "departure_time": "9:27:00",
@@ -994,7 +994,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548f0",
+      "_id": "574c23a21e1becf54ae9d894",
       "trip_id": "425a",
       "arrival_time": "9:31:00",
       "departure_time": "9:31:00",
@@ -1005,7 +1005,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548f1",
+      "_id": "574c23a21e1becf54ae9d895",
       "trip_id": "425a",
       "arrival_time": "9:34:00",
       "departure_time": "9:34:00",
@@ -1016,7 +1016,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548f2",
+      "_id": "574c23a21e1becf54ae9d896",
       "trip_id": "425a",
       "arrival_time": "9:37:00",
       "departure_time": "9:37:00",
@@ -1027,7 +1027,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548f3",
+      "_id": "574c23a21e1becf54ae9d897",
       "trip_id": "425a",
       "arrival_time": "9:41:00",
       "departure_time": "9:41:00",
@@ -1038,7 +1038,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548f4",
+      "_id": "574c23a21e1becf54ae9d898",
       "trip_id": "425a",
       "arrival_time": "9:45:00",
       "departure_time": "9:45:00",
@@ -1049,7 +1049,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548f5",
+      "_id": "574c23a21e1becf54ae9d899",
       "trip_id": "425a",
       "arrival_time": "9:48:00",
       "departure_time": "9:48:00",
@@ -1060,7 +1060,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548f6",
+      "_id": "574c23a21e1becf54ae9d89a",
       "trip_id": "425a",
       "arrival_time": "9:51:00",
       "departure_time": "9:51:00",
@@ -1071,7 +1071,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548f7",
+      "_id": "574c23a21e1becf54ae9d89b",
       "trip_id": "425a",
       "arrival_time": "9:54:00",
       "departure_time": "9:54:00",
@@ -1082,7 +1082,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548f8",
+      "_id": "574c23a21e1becf54ae9d89c",
       "trip_id": "425a",
       "arrival_time": "9:57:00",
       "departure_time": "9:57:00",
@@ -1093,7 +1093,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548f9",
+      "_id": "574c23a21e1becf54ae9d89d",
       "trip_id": "425a",
       "arrival_time": "10:02:00",
       "departure_time": "10:02:00",
@@ -1104,7 +1104,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548fa",
+      "_id": "574c23a21e1becf54ae9d89e",
       "trip_id": "425a",
       "arrival_time": "10:05:00",
       "departure_time": "10:05:00",
@@ -1115,7 +1115,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548fb",
+      "_id": "574c23a21e1becf54ae9d89f",
       "trip_id": "425a",
       "arrival_time": "10:10:00",
       "departure_time": "10:10:00",
@@ -1126,7 +1126,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548fc",
+      "_id": "574c23a21e1becf54ae9d8a0",
       "trip_id": "425a",
       "arrival_time": "10:14:00",
       "departure_time": "10:14:00",
@@ -1137,7 +1137,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548fd",
+      "_id": "574c23a21e1becf54ae9d8a1",
       "trip_id": "425a",
       "arrival_time": "10:19:00",
       "departure_time": "10:19:00",
@@ -1148,7 +1148,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548fe",
+      "_id": "574c23a21e1becf54ae9d8a2",
       "trip_id": "425a",
       "arrival_time": "10:25:00",
       "departure_time": "10:25:00",
@@ -1159,7 +1159,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450548ff",
+      "_id": "574c23a21e1becf54ae9d8a3",
       "trip_id": "425a",
       "arrival_time": "10:30:00",
       "departure_time": "10:30:00",
@@ -1170,7 +1170,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054900",
+      "_id": "574c23a21e1becf54ae9d8a4",
       "trip_id": "425a",
       "arrival_time": "10:38:00",
       "departure_time": "10:38:00",
@@ -1183,7 +1183,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e266245054901",
+      "_id": "574c23a21e1becf54ae9d8a5",
       "trip_id": "427a",
       "arrival_time": "10:00:00",
       "departure_time": "10:00:00",
@@ -1194,7 +1194,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054902",
+      "_id": "574c23a21e1becf54ae9d8a6",
       "trip_id": "427a",
       "arrival_time": "10:05:00",
       "departure_time": "10:05:00",
@@ -1205,7 +1205,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054903",
+      "_id": "574c23a21e1becf54ae9d8a7",
       "trip_id": "427a",
       "arrival_time": "10:10:00",
       "departure_time": "10:10:00",
@@ -1216,7 +1216,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054904",
+      "_id": "574c23a21e1becf54ae9d8a8",
       "trip_id": "427a",
       "arrival_time": "10:14:00",
       "departure_time": "10:14:00",
@@ -1227,7 +1227,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054905",
+      "_id": "574c23a21e1becf54ae9d8a9",
       "trip_id": "427a",
       "arrival_time": "10:19:00",
       "departure_time": "10:19:00",
@@ -1238,7 +1238,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054906",
+      "_id": "574c23a21e1becf54ae9d8aa",
       "trip_id": "427a",
       "arrival_time": "10:23:00",
       "departure_time": "10:23:00",
@@ -1249,7 +1249,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054907",
+      "_id": "574c23a21e1becf54ae9d8ab",
       "trip_id": "427a",
       "arrival_time": "10:27:00",
       "departure_time": "10:27:00",
@@ -1260,7 +1260,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054908",
+      "_id": "574c23a21e1becf54ae9d8ac",
       "trip_id": "427a",
       "arrival_time": "10:31:00",
       "departure_time": "10:31:00",
@@ -1271,7 +1271,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054909",
+      "_id": "574c23a21e1becf54ae9d8ad",
       "trip_id": "427a",
       "arrival_time": "10:34:00",
       "departure_time": "10:34:00",
@@ -1282,7 +1282,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505490a",
+      "_id": "574c23a21e1becf54ae9d8ae",
       "trip_id": "427a",
       "arrival_time": "10:37:00",
       "departure_time": "10:37:00",
@@ -1293,7 +1293,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505490b",
+      "_id": "574c23a21e1becf54ae9d8af",
       "trip_id": "427a",
       "arrival_time": "10:41:00",
       "departure_time": "10:41:00",
@@ -1304,7 +1304,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505490c",
+      "_id": "574c23a21e1becf54ae9d8b0",
       "trip_id": "427a",
       "arrival_time": "10:45:00",
       "departure_time": "10:45:00",
@@ -1315,7 +1315,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505490d",
+      "_id": "574c23a21e1becf54ae9d8b1",
       "trip_id": "427a",
       "arrival_time": "10:48:00",
       "departure_time": "10:48:00",
@@ -1326,7 +1326,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505490e",
+      "_id": "574c23a21e1becf54ae9d8b2",
       "trip_id": "427a",
       "arrival_time": "10:51:00",
       "departure_time": "10:51:00",
@@ -1337,7 +1337,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505490f",
+      "_id": "574c23a21e1becf54ae9d8b3",
       "trip_id": "427a",
       "arrival_time": "10:54:00",
       "departure_time": "10:54:00",
@@ -1348,7 +1348,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054910",
+      "_id": "574c23a21e1becf54ae9d8b4",
       "trip_id": "427a",
       "arrival_time": "10:57:00",
       "departure_time": "10:57:00",
@@ -1359,7 +1359,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054911",
+      "_id": "574c23a21e1becf54ae9d8b5",
       "trip_id": "427a",
       "arrival_time": "11:02:00",
       "departure_time": "11:02:00",
@@ -1370,7 +1370,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054912",
+      "_id": "574c23a21e1becf54ae9d8b6",
       "trip_id": "427a",
       "arrival_time": "11:05:00",
       "departure_time": "11:05:00",
@@ -1381,7 +1381,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054913",
+      "_id": "574c23a21e1becf54ae9d8b7",
       "trip_id": "427a",
       "arrival_time": "11:10:00",
       "departure_time": "11:10:00",
@@ -1392,7 +1392,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054914",
+      "_id": "574c23a21e1becf54ae9d8b8",
       "trip_id": "427a",
       "arrival_time": "11:14:00",
       "departure_time": "11:14:00",
@@ -1403,7 +1403,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054915",
+      "_id": "574c23a21e1becf54ae9d8b9",
       "trip_id": "427a",
       "arrival_time": "11:19:00",
       "departure_time": "11:19:00",
@@ -1414,7 +1414,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054916",
+      "_id": "574c23a21e1becf54ae9d8ba",
       "trip_id": "427a",
       "arrival_time": "11:25:00",
       "departure_time": "11:25:00",
@@ -1425,7 +1425,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054917",
+      "_id": "574c23a21e1becf54ae9d8bb",
       "trip_id": "427a",
       "arrival_time": "11:30:00",
       "departure_time": "11:30:00",
@@ -1436,7 +1436,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054918",
+      "_id": "574c23a21e1becf54ae9d8bc",
       "trip_id": "427a",
       "arrival_time": "11:38:00",
       "departure_time": "11:38:00",
@@ -1449,7 +1449,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e266245054922",
+      "_id": "574c23a21e1becf54ae9d8c6",
       "trip_id": "429a",
       "arrival_time": "11:00:00",
       "departure_time": "11:00:00",
@@ -1460,7 +1460,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054923",
+      "_id": "574c23a21e1becf54ae9d8c7",
       "trip_id": "429a",
       "arrival_time": "11:05:00",
       "departure_time": "11:05:00",
@@ -1471,7 +1471,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054924",
+      "_id": "574c23a21e1becf54ae9d8c8",
       "trip_id": "429a",
       "arrival_time": "11:10:00",
       "departure_time": "11:10:00",
@@ -1482,7 +1482,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054925",
+      "_id": "574c23a21e1becf54ae9d8c9",
       "trip_id": "429a",
       "arrival_time": "11:14:00",
       "departure_time": "11:14:00",
@@ -1493,7 +1493,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054926",
+      "_id": "574c23a21e1becf54ae9d8ca",
       "trip_id": "429a",
       "arrival_time": "11:19:00",
       "departure_time": "11:19:00",
@@ -1504,7 +1504,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054927",
+      "_id": "574c23a21e1becf54ae9d8cb",
       "trip_id": "429a",
       "arrival_time": "11:23:00",
       "departure_time": "11:23:00",
@@ -1515,7 +1515,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054928",
+      "_id": "574c23a21e1becf54ae9d8cc",
       "trip_id": "429a",
       "arrival_time": "11:27:00",
       "departure_time": "11:27:00",
@@ -1526,7 +1526,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054929",
+      "_id": "574c23a21e1becf54ae9d8cd",
       "trip_id": "429a",
       "arrival_time": "11:31:00",
       "departure_time": "11:31:00",
@@ -1537,7 +1537,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505492a",
+      "_id": "574c23a21e1becf54ae9d8ce",
       "trip_id": "429a",
       "arrival_time": "11:34:00",
       "departure_time": "11:34:00",
@@ -1548,7 +1548,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505492b",
+      "_id": "574c23a21e1becf54ae9d8cf",
       "trip_id": "429a",
       "arrival_time": "11:37:00",
       "departure_time": "11:37:00",
@@ -1559,7 +1559,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505492c",
+      "_id": "574c23a21e1becf54ae9d8d0",
       "trip_id": "429a",
       "arrival_time": "11:41:00",
       "departure_time": "11:41:00",
@@ -1570,7 +1570,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505492d",
+      "_id": "574c23a21e1becf54ae9d8d1",
       "trip_id": "429a",
       "arrival_time": "11:45:00",
       "departure_time": "11:45:00",
@@ -1581,7 +1581,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505492e",
+      "_id": "574c23a21e1becf54ae9d8d2",
       "trip_id": "429a",
       "arrival_time": "11:48:00",
       "departure_time": "11:48:00",
@@ -1592,7 +1592,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505492f",
+      "_id": "574c23a21e1becf54ae9d8d3",
       "trip_id": "429a",
       "arrival_time": "11:51:00",
       "departure_time": "11:51:00",
@@ -1603,7 +1603,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054930",
+      "_id": "574c23a21e1becf54ae9d8d4",
       "trip_id": "429a",
       "arrival_time": "11:54:00",
       "departure_time": "11:54:00",
@@ -1614,7 +1614,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054931",
+      "_id": "574c23a21e1becf54ae9d8d5",
       "trip_id": "429a",
       "arrival_time": "11:57:00",
       "departure_time": "11:57:00",
@@ -1625,7 +1625,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054932",
+      "_id": "574c23a21e1becf54ae9d8d6",
       "trip_id": "429a",
       "arrival_time": "12:02:00",
       "departure_time": "12:02:00",
@@ -1636,7 +1636,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054933",
+      "_id": "574c23a21e1becf54ae9d8d7",
       "trip_id": "429a",
       "arrival_time": "12:05:00",
       "departure_time": "12:05:00",
@@ -1647,7 +1647,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054934",
+      "_id": "574c23a21e1becf54ae9d8d8",
       "trip_id": "429a",
       "arrival_time": "12:10:00",
       "departure_time": "12:10:00",
@@ -1658,7 +1658,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054935",
+      "_id": "574c23a21e1becf54ae9d8d9",
       "trip_id": "429a",
       "arrival_time": "12:14:00",
       "departure_time": "12:14:00",
@@ -1669,7 +1669,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054936",
+      "_id": "574c23a21e1becf54ae9d8da",
       "trip_id": "429a",
       "arrival_time": "12:19:00",
       "departure_time": "12:19:00",
@@ -1680,7 +1680,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054937",
+      "_id": "574c23a21e1becf54ae9d8db",
       "trip_id": "429a",
       "arrival_time": "12:25:00",
       "departure_time": "12:25:00",
@@ -1691,7 +1691,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054938",
+      "_id": "574c23a21e1becf54ae9d8dc",
       "trip_id": "429a",
       "arrival_time": "12:30:00",
       "departure_time": "12:30:00",
@@ -1702,7 +1702,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054939",
+      "_id": "574c23a21e1becf54ae9d8dd",
       "trip_id": "429a",
       "arrival_time": "12:38:00",
       "departure_time": "12:38:00",
@@ -1715,7 +1715,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e26624505493a",
+      "_id": "574c23a21e1becf54ae9d8de",
       "trip_id": "431a",
       "arrival_time": "12:00:00",
       "departure_time": "12:00:00",
@@ -1726,7 +1726,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505493b",
+      "_id": "574c23a21e1becf54ae9d8df",
       "trip_id": "431a",
       "arrival_time": "12:05:00",
       "departure_time": "12:05:00",
@@ -1737,7 +1737,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505493c",
+      "_id": "574c23a21e1becf54ae9d8e0",
       "trip_id": "431a",
       "arrival_time": "12:10:00",
       "departure_time": "12:10:00",
@@ -1748,7 +1748,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505493d",
+      "_id": "574c23a21e1becf54ae9d8e1",
       "trip_id": "431a",
       "arrival_time": "12:14:00",
       "departure_time": "12:14:00",
@@ -1759,7 +1759,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505493e",
+      "_id": "574c23a21e1becf54ae9d8e2",
       "trip_id": "431a",
       "arrival_time": "12:19:00",
       "departure_time": "12:19:00",
@@ -1770,7 +1770,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505493f",
+      "_id": "574c23a21e1becf54ae9d8e3",
       "trip_id": "431a",
       "arrival_time": "12:23:00",
       "departure_time": "12:23:00",
@@ -1781,7 +1781,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054940",
+      "_id": "574c23a21e1becf54ae9d8e4",
       "trip_id": "431a",
       "arrival_time": "12:27:00",
       "departure_time": "12:27:00",
@@ -1792,7 +1792,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054941",
+      "_id": "574c23a21e1becf54ae9d8e5",
       "trip_id": "431a",
       "arrival_time": "12:31:00",
       "departure_time": "12:31:00",
@@ -1803,7 +1803,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054942",
+      "_id": "574c23a21e1becf54ae9d8e6",
       "trip_id": "431a",
       "arrival_time": "12:34:00",
       "departure_time": "12:34:00",
@@ -1814,7 +1814,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054943",
+      "_id": "574c23a21e1becf54ae9d8e7",
       "trip_id": "431a",
       "arrival_time": "12:37:00",
       "departure_time": "12:37:00",
@@ -1825,7 +1825,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054944",
+      "_id": "574c23a21e1becf54ae9d8e8",
       "trip_id": "431a",
       "arrival_time": "12:41:00",
       "departure_time": "12:41:00",
@@ -1836,7 +1836,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054945",
+      "_id": "574c23a21e1becf54ae9d8e9",
       "trip_id": "431a",
       "arrival_time": "12:45:00",
       "departure_time": "12:45:00",
@@ -1847,7 +1847,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054946",
+      "_id": "574c23a21e1becf54ae9d8ea",
       "trip_id": "431a",
       "arrival_time": "12:48:00",
       "departure_time": "12:48:00",
@@ -1858,7 +1858,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054947",
+      "_id": "574c23a21e1becf54ae9d8eb",
       "trip_id": "431a",
       "arrival_time": "12:51:00",
       "departure_time": "12:51:00",
@@ -1869,7 +1869,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054948",
+      "_id": "574c23a21e1becf54ae9d8ec",
       "trip_id": "431a",
       "arrival_time": "12:54:00",
       "departure_time": "12:54:00",
@@ -1880,7 +1880,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054949",
+      "_id": "574c23a21e1becf54ae9d8ed",
       "trip_id": "431a",
       "arrival_time": "12:57:00",
       "departure_time": "12:57:00",
@@ -1891,7 +1891,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505494a",
+      "_id": "574c23a21e1becf54ae9d8ee",
       "trip_id": "431a",
       "arrival_time": "13:02:00",
       "departure_time": "13:02:00",
@@ -1902,7 +1902,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505494b",
+      "_id": "574c23a21e1becf54ae9d8ef",
       "trip_id": "431a",
       "arrival_time": "13:05:00",
       "departure_time": "13:05:00",
@@ -1913,7 +1913,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505494c",
+      "_id": "574c23a21e1becf54ae9d8f0",
       "trip_id": "431a",
       "arrival_time": "13:10:00",
       "departure_time": "13:10:00",
@@ -1924,7 +1924,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505494d",
+      "_id": "574c23a21e1becf54ae9d8f1",
       "trip_id": "431a",
       "arrival_time": "13:14:00",
       "departure_time": "13:14:00",
@@ -1935,7 +1935,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505494e",
+      "_id": "574c23a21e1becf54ae9d8f2",
       "trip_id": "431a",
       "arrival_time": "13:19:00",
       "departure_time": "13:19:00",
@@ -1946,7 +1946,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505494f",
+      "_id": "574c23a21e1becf54ae9d8f3",
       "trip_id": "431a",
       "arrival_time": "13:25:00",
       "departure_time": "13:25:00",
@@ -1957,7 +1957,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054950",
+      "_id": "574c23a21e1becf54ae9d8f4",
       "trip_id": "431a",
       "arrival_time": "13:30:00",
       "departure_time": "13:30:00",
@@ -1968,7 +1968,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054951",
+      "_id": "574c23a21e1becf54ae9d8f5",
       "trip_id": "431a",
       "arrival_time": "13:38:00",
       "departure_time": "13:38:00",
@@ -1981,7 +1981,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e266245054952",
+      "_id": "574c23a21e1becf54ae9d8f6",
       "trip_id": "433a",
       "arrival_time": "13:00:00",
       "departure_time": "13:00:00",
@@ -1992,7 +1992,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054953",
+      "_id": "574c23a21e1becf54ae9d8f7",
       "trip_id": "433a",
       "arrival_time": "13:05:00",
       "departure_time": "13:05:00",
@@ -2003,7 +2003,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054954",
+      "_id": "574c23a21e1becf54ae9d8f8",
       "trip_id": "433a",
       "arrival_time": "13:10:00",
       "departure_time": "13:10:00",
@@ -2014,7 +2014,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054955",
+      "_id": "574c23a21e1becf54ae9d8f9",
       "trip_id": "433a",
       "arrival_time": "13:14:00",
       "departure_time": "13:14:00",
@@ -2025,7 +2025,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054956",
+      "_id": "574c23a21e1becf54ae9d8fa",
       "trip_id": "433a",
       "arrival_time": "13:19:00",
       "departure_time": "13:19:00",
@@ -2036,7 +2036,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054957",
+      "_id": "574c23a21e1becf54ae9d8fb",
       "trip_id": "433a",
       "arrival_time": "13:23:00",
       "departure_time": "13:23:00",
@@ -2047,7 +2047,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054958",
+      "_id": "574c23a21e1becf54ae9d8fc",
       "trip_id": "433a",
       "arrival_time": "13:27:00",
       "departure_time": "13:27:00",
@@ -2058,7 +2058,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054959",
+      "_id": "574c23a21e1becf54ae9d8fd",
       "trip_id": "433a",
       "arrival_time": "13:31:00",
       "departure_time": "13:31:00",
@@ -2069,7 +2069,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505495a",
+      "_id": "574c23a21e1becf54ae9d8fe",
       "trip_id": "433a",
       "arrival_time": "13:34:00",
       "departure_time": "13:34:00",
@@ -2080,7 +2080,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505495b",
+      "_id": "574c23a21e1becf54ae9d8ff",
       "trip_id": "433a",
       "arrival_time": "13:37:00",
       "departure_time": "13:37:00",
@@ -2091,7 +2091,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505495c",
+      "_id": "574c23a21e1becf54ae9d900",
       "trip_id": "433a",
       "arrival_time": "13:41:00",
       "departure_time": "13:41:00",
@@ -2102,7 +2102,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505495d",
+      "_id": "574c23a21e1becf54ae9d901",
       "trip_id": "433a",
       "arrival_time": "13:45:00",
       "departure_time": "13:45:00",
@@ -2113,7 +2113,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505495e",
+      "_id": "574c23a21e1becf54ae9d902",
       "trip_id": "433a",
       "arrival_time": "13:48:00",
       "departure_time": "13:48:00",
@@ -2124,7 +2124,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505495f",
+      "_id": "574c23a21e1becf54ae9d903",
       "trip_id": "433a",
       "arrival_time": "13:51:00",
       "departure_time": "13:51:00",
@@ -2135,7 +2135,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054960",
+      "_id": "574c23a21e1becf54ae9d904",
       "trip_id": "433a",
       "arrival_time": "13:54:00",
       "departure_time": "13:54:00",
@@ -2146,7 +2146,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054961",
+      "_id": "574c23a21e1becf54ae9d905",
       "trip_id": "433a",
       "arrival_time": "13:57:00",
       "departure_time": "13:57:00",
@@ -2157,7 +2157,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054962",
+      "_id": "574c23a21e1becf54ae9d906",
       "trip_id": "433a",
       "arrival_time": "14:02:00",
       "departure_time": "14:02:00",
@@ -2168,7 +2168,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054963",
+      "_id": "574c23a21e1becf54ae9d907",
       "trip_id": "433a",
       "arrival_time": "14:05:00",
       "departure_time": "14:05:00",
@@ -2179,7 +2179,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054964",
+      "_id": "574c23a21e1becf54ae9d908",
       "trip_id": "433a",
       "arrival_time": "14:10:00",
       "departure_time": "14:10:00",
@@ -2190,7 +2190,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054965",
+      "_id": "574c23a21e1becf54ae9d909",
       "trip_id": "433a",
       "arrival_time": "14:14:00",
       "departure_time": "14:14:00",
@@ -2201,7 +2201,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054966",
+      "_id": "574c23a21e1becf54ae9d90a",
       "trip_id": "433a",
       "arrival_time": "14:19:00",
       "departure_time": "14:19:00",
@@ -2212,7 +2212,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054967",
+      "_id": "574c23a21e1becf54ae9d90b",
       "trip_id": "433a",
       "arrival_time": "14:25:00",
       "departure_time": "14:25:00",
@@ -2223,7 +2223,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054968",
+      "_id": "574c23a21e1becf54ae9d90c",
       "trip_id": "433a",
       "arrival_time": "14:30:00",
       "departure_time": "14:30:00",
@@ -2234,7 +2234,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054969",
+      "_id": "574c23a21e1becf54ae9d90d",
       "trip_id": "433a",
       "arrival_time": "14:38:00",
       "departure_time": "14:38:00",
@@ -2247,7 +2247,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e26624505496a",
+      "_id": "574c23a21e1becf54ae9d90e",
       "trip_id": "435a",
       "arrival_time": "14:00:00",
       "departure_time": "14:00:00",
@@ -2258,7 +2258,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505496b",
+      "_id": "574c23a21e1becf54ae9d90f",
       "trip_id": "435a",
       "arrival_time": "14:05:00",
       "departure_time": "14:05:00",
@@ -2269,7 +2269,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505496c",
+      "_id": "574c23a21e1becf54ae9d910",
       "trip_id": "435a",
       "arrival_time": "14:10:00",
       "departure_time": "14:10:00",
@@ -2280,7 +2280,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505496d",
+      "_id": "574c23a21e1becf54ae9d911",
       "trip_id": "435a",
       "arrival_time": "14:14:00",
       "departure_time": "14:14:00",
@@ -2291,7 +2291,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505496e",
+      "_id": "574c23a21e1becf54ae9d912",
       "trip_id": "435a",
       "arrival_time": "14:19:00",
       "departure_time": "14:19:00",
@@ -2302,7 +2302,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505496f",
+      "_id": "574c23a21e1becf54ae9d913",
       "trip_id": "435a",
       "arrival_time": "14:23:00",
       "departure_time": "14:23:00",
@@ -2313,7 +2313,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054970",
+      "_id": "574c23a21e1becf54ae9d914",
       "trip_id": "435a",
       "arrival_time": "14:27:00",
       "departure_time": "14:27:00",
@@ -2324,7 +2324,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054971",
+      "_id": "574c23a21e1becf54ae9d915",
       "trip_id": "435a",
       "arrival_time": "14:31:00",
       "departure_time": "14:31:00",
@@ -2335,7 +2335,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054972",
+      "_id": "574c23a21e1becf54ae9d916",
       "trip_id": "435a",
       "arrival_time": "14:34:00",
       "departure_time": "14:34:00",
@@ -2346,7 +2346,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054973",
+      "_id": "574c23a21e1becf54ae9d917",
       "trip_id": "435a",
       "arrival_time": "14:37:00",
       "departure_time": "14:37:00",
@@ -2357,7 +2357,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054974",
+      "_id": "574c23a21e1becf54ae9d918",
       "trip_id": "435a",
       "arrival_time": "14:41:00",
       "departure_time": "14:41:00",
@@ -2368,7 +2368,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054975",
+      "_id": "574c23a21e1becf54ae9d919",
       "trip_id": "435a",
       "arrival_time": "14:45:00",
       "departure_time": "14:45:00",
@@ -2379,7 +2379,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054976",
+      "_id": "574c23a21e1becf54ae9d91a",
       "trip_id": "435a",
       "arrival_time": "14:48:00",
       "departure_time": "14:48:00",
@@ -2390,7 +2390,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054977",
+      "_id": "574c23a21e1becf54ae9d91b",
       "trip_id": "435a",
       "arrival_time": "14:51:00",
       "departure_time": "14:51:00",
@@ -2401,7 +2401,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054978",
+      "_id": "574c23a21e1becf54ae9d91c",
       "trip_id": "435a",
       "arrival_time": "14:54:00",
       "departure_time": "14:54:00",
@@ -2412,7 +2412,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054979",
+      "_id": "574c23a21e1becf54ae9d91d",
       "trip_id": "435a",
       "arrival_time": "14:57:00",
       "departure_time": "14:57:00",
@@ -2423,7 +2423,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505497a",
+      "_id": "574c23a21e1becf54ae9d91e",
       "trip_id": "435a",
       "arrival_time": "15:02:00",
       "departure_time": "15:02:00",
@@ -2434,7 +2434,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505497b",
+      "_id": "574c23a21e1becf54ae9d91f",
       "trip_id": "435a",
       "arrival_time": "15:05:00",
       "departure_time": "15:05:00",
@@ -2445,7 +2445,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505497c",
+      "_id": "574c23a21e1becf54ae9d920",
       "trip_id": "435a",
       "arrival_time": "15:10:00",
       "departure_time": "15:10:00",
@@ -2456,7 +2456,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505497d",
+      "_id": "574c23a21e1becf54ae9d921",
       "trip_id": "435a",
       "arrival_time": "15:14:00",
       "departure_time": "15:14:00",
@@ -2467,7 +2467,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505497e",
+      "_id": "574c23a21e1becf54ae9d922",
       "trip_id": "435a",
       "arrival_time": "15:19:00",
       "departure_time": "15:19:00",
@@ -2478,7 +2478,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505497f",
+      "_id": "574c23a21e1becf54ae9d923",
       "trip_id": "435a",
       "arrival_time": "15:25:00",
       "departure_time": "15:25:00",
@@ -2489,7 +2489,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054980",
+      "_id": "574c23a21e1becf54ae9d924",
       "trip_id": "435a",
       "arrival_time": "15:30:00",
       "departure_time": "15:30:00",
@@ -2500,7 +2500,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054981",
+      "_id": "574c23a21e1becf54ae9d925",
       "trip_id": "435a",
       "arrival_time": "15:38:00",
       "departure_time": "15:38:00",
@@ -2513,7 +2513,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e266245054982",
+      "_id": "574c23a21e1becf54ae9d926",
       "trip_id": "437a",
       "arrival_time": "15:00:00",
       "departure_time": "15:00:00",
@@ -2524,7 +2524,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054983",
+      "_id": "574c23a21e1becf54ae9d927",
       "trip_id": "437a",
       "arrival_time": "15:05:00",
       "departure_time": "15:05:00",
@@ -2535,7 +2535,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054984",
+      "_id": "574c23a21e1becf54ae9d928",
       "trip_id": "437a",
       "arrival_time": "15:10:00",
       "departure_time": "15:10:00",
@@ -2546,7 +2546,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054985",
+      "_id": "574c23a21e1becf54ae9d929",
       "trip_id": "437a",
       "arrival_time": "15:14:00",
       "departure_time": "15:14:00",
@@ -2557,7 +2557,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054986",
+      "_id": "574c23a21e1becf54ae9d92a",
       "trip_id": "437a",
       "arrival_time": "15:19:00",
       "departure_time": "15:19:00",
@@ -2568,7 +2568,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054987",
+      "_id": "574c23a21e1becf54ae9d92b",
       "trip_id": "437a",
       "arrival_time": "15:23:00",
       "departure_time": "15:23:00",
@@ -2579,7 +2579,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054988",
+      "_id": "574c23a21e1becf54ae9d92c",
       "trip_id": "437a",
       "arrival_time": "15:27:00",
       "departure_time": "15:27:00",
@@ -2590,7 +2590,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054989",
+      "_id": "574c23a21e1becf54ae9d92d",
       "trip_id": "437a",
       "arrival_time": "15:31:00",
       "departure_time": "15:31:00",
@@ -2601,7 +2601,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505498a",
+      "_id": "574c23a21e1becf54ae9d92e",
       "trip_id": "437a",
       "arrival_time": "15:34:00",
       "departure_time": "15:34:00",
@@ -2612,7 +2612,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505498b",
+      "_id": "574c23a21e1becf54ae9d92f",
       "trip_id": "437a",
       "arrival_time": "15:37:00",
       "departure_time": "15:37:00",
@@ -2623,7 +2623,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505498c",
+      "_id": "574c23a21e1becf54ae9d930",
       "trip_id": "437a",
       "arrival_time": "15:41:00",
       "departure_time": "15:41:00",
@@ -2634,7 +2634,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505498d",
+      "_id": "574c23a21e1becf54ae9d931",
       "trip_id": "437a",
       "arrival_time": "15:45:00",
       "departure_time": "15:45:00",
@@ -2645,7 +2645,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505498e",
+      "_id": "574c23a21e1becf54ae9d932",
       "trip_id": "437a",
       "arrival_time": "15:48:00",
       "departure_time": "15:48:00",
@@ -2656,7 +2656,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505498f",
+      "_id": "574c23a21e1becf54ae9d933",
       "trip_id": "437a",
       "arrival_time": "15:51:00",
       "departure_time": "15:51:00",
@@ -2667,7 +2667,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054990",
+      "_id": "574c23a21e1becf54ae9d934",
       "trip_id": "437a",
       "arrival_time": "15:54:00",
       "departure_time": "15:54:00",
@@ -2678,7 +2678,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054991",
+      "_id": "574c23a21e1becf54ae9d935",
       "trip_id": "437a",
       "arrival_time": "15:57:00",
       "departure_time": "15:57:00",
@@ -2689,7 +2689,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054992",
+      "_id": "574c23a21e1becf54ae9d936",
       "trip_id": "437a",
       "arrival_time": "16:02:00",
       "departure_time": "16:02:00",
@@ -2700,7 +2700,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054993",
+      "_id": "574c23a21e1becf54ae9d937",
       "trip_id": "437a",
       "arrival_time": "16:05:00",
       "departure_time": "16:05:00",
@@ -2711,7 +2711,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054994",
+      "_id": "574c23a21e1becf54ae9d938",
       "trip_id": "437a",
       "arrival_time": "16:10:00",
       "departure_time": "16:10:00",
@@ -2722,7 +2722,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054995",
+      "_id": "574c23a21e1becf54ae9d939",
       "trip_id": "437a",
       "arrival_time": "16:14:00",
       "departure_time": "16:14:00",
@@ -2733,7 +2733,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054996",
+      "_id": "574c23a21e1becf54ae9d93a",
       "trip_id": "437a",
       "arrival_time": "16:19:00",
       "departure_time": "16:19:00",
@@ -2744,7 +2744,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054997",
+      "_id": "574c23a21e1becf54ae9d93b",
       "trip_id": "437a",
       "arrival_time": "16:25:00",
       "departure_time": "16:25:00",
@@ -2755,7 +2755,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054998",
+      "_id": "574c23a21e1becf54ae9d93c",
       "trip_id": "437a",
       "arrival_time": "16:30:00",
       "departure_time": "16:30:00",
@@ -2766,7 +2766,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054999",
+      "_id": "574c23a21e1becf54ae9d93d",
       "trip_id": "437a",
       "arrival_time": "16:38:00",
       "departure_time": "16:38:00",
@@ -2779,7 +2779,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e26624505499a",
+      "_id": "574c23a21e1becf54ae9d93e",
       "trip_id": "439a",
       "arrival_time": "16:00:00",
       "departure_time": "16:00:00",
@@ -2790,7 +2790,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505499b",
+      "_id": "574c23a21e1becf54ae9d93f",
       "trip_id": "439a",
       "arrival_time": "16:05:00",
       "departure_time": "16:05:00",
@@ -2801,7 +2801,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505499c",
+      "_id": "574c23a21e1becf54ae9d940",
       "trip_id": "439a",
       "arrival_time": "16:10:00",
       "departure_time": "16:10:00",
@@ -2812,7 +2812,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505499d",
+      "_id": "574c23a21e1becf54ae9d941",
       "trip_id": "439a",
       "arrival_time": "16:14:00",
       "departure_time": "16:14:00",
@@ -2823,7 +2823,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505499e",
+      "_id": "574c23a21e1becf54ae9d942",
       "trip_id": "439a",
       "arrival_time": "16:19:00",
       "departure_time": "16:19:00",
@@ -2834,7 +2834,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505499f",
+      "_id": "574c23a21e1becf54ae9d943",
       "trip_id": "439a",
       "arrival_time": "16:23:00",
       "departure_time": "16:23:00",
@@ -2845,7 +2845,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549a0",
+      "_id": "574c23a21e1becf54ae9d944",
       "trip_id": "439a",
       "arrival_time": "16:27:00",
       "departure_time": "16:27:00",
@@ -2856,7 +2856,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549a1",
+      "_id": "574c23a21e1becf54ae9d945",
       "trip_id": "439a",
       "arrival_time": "16:31:00",
       "departure_time": "16:31:00",
@@ -2867,7 +2867,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549a2",
+      "_id": "574c23a21e1becf54ae9d946",
       "trip_id": "439a",
       "arrival_time": "16:34:00",
       "departure_time": "16:34:00",
@@ -2878,7 +2878,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549a3",
+      "_id": "574c23a21e1becf54ae9d947",
       "trip_id": "439a",
       "arrival_time": "16:37:00",
       "departure_time": "16:37:00",
@@ -2889,7 +2889,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549a4",
+      "_id": "574c23a21e1becf54ae9d948",
       "trip_id": "439a",
       "arrival_time": "16:41:00",
       "departure_time": "16:41:00",
@@ -2900,7 +2900,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549a5",
+      "_id": "574c23a21e1becf54ae9d949",
       "trip_id": "439a",
       "arrival_time": "16:45:00",
       "departure_time": "16:45:00",
@@ -2911,7 +2911,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549a6",
+      "_id": "574c23a21e1becf54ae9d94a",
       "trip_id": "439a",
       "arrival_time": "16:48:00",
       "departure_time": "16:48:00",
@@ -2922,7 +2922,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549a7",
+      "_id": "574c23a21e1becf54ae9d94b",
       "trip_id": "439a",
       "arrival_time": "16:51:00",
       "departure_time": "16:51:00",
@@ -2933,7 +2933,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549a8",
+      "_id": "574c23a21e1becf54ae9d94c",
       "trip_id": "439a",
       "arrival_time": "16:54:00",
       "departure_time": "16:54:00",
@@ -2944,7 +2944,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549a9",
+      "_id": "574c23a21e1becf54ae9d94d",
       "trip_id": "439a",
       "arrival_time": "16:57:00",
       "departure_time": "16:57:00",
@@ -2955,7 +2955,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549aa",
+      "_id": "574c23a21e1becf54ae9d94e",
       "trip_id": "439a",
       "arrival_time": "17:02:00",
       "departure_time": "17:02:00",
@@ -2966,7 +2966,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549ab",
+      "_id": "574c23a21e1becf54ae9d94f",
       "trip_id": "439a",
       "arrival_time": "17:05:00",
       "departure_time": "17:05:00",
@@ -2977,7 +2977,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549ac",
+      "_id": "574c23a21e1becf54ae9d950",
       "trip_id": "439a",
       "arrival_time": "17:10:00",
       "departure_time": "17:10:00",
@@ -2988,7 +2988,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549ad",
+      "_id": "574c23a21e1becf54ae9d951",
       "trip_id": "439a",
       "arrival_time": "17:14:00",
       "departure_time": "17:14:00",
@@ -2999,7 +2999,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549ae",
+      "_id": "574c23a21e1becf54ae9d952",
       "trip_id": "439a",
       "arrival_time": "17:19:00",
       "departure_time": "17:19:00",
@@ -3010,7 +3010,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549af",
+      "_id": "574c23a21e1becf54ae9d953",
       "trip_id": "439a",
       "arrival_time": "17:25:00",
       "departure_time": "17:25:00",
@@ -3021,7 +3021,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549b0",
+      "_id": "574c23a21e1becf54ae9d954",
       "trip_id": "439a",
       "arrival_time": "17:30:00",
       "departure_time": "17:30:00",
@@ -3032,7 +3032,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549b1",
+      "_id": "574c23a21e1becf54ae9d955",
       "trip_id": "439a",
       "arrival_time": "17:38:00",
       "departure_time": "17:38:00",
@@ -3045,7 +3045,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e2662450549b2",
+      "_id": "574c23a21e1becf54ae9d956",
       "trip_id": "441a",
       "arrival_time": "17:00:00",
       "departure_time": "17:00:00",
@@ -3056,7 +3056,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549b3",
+      "_id": "574c23a21e1becf54ae9d957",
       "trip_id": "441a",
       "arrival_time": "17:05:00",
       "departure_time": "17:05:00",
@@ -3067,7 +3067,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549b4",
+      "_id": "574c23a21e1becf54ae9d958",
       "trip_id": "441a",
       "arrival_time": "17:10:00",
       "departure_time": "17:10:00",
@@ -3078,7 +3078,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549b5",
+      "_id": "574c23a21e1becf54ae9d959",
       "trip_id": "441a",
       "arrival_time": "17:14:00",
       "departure_time": "17:14:00",
@@ -3089,7 +3089,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549b6",
+      "_id": "574c23a21e1becf54ae9d95a",
       "trip_id": "441a",
       "arrival_time": "17:19:00",
       "departure_time": "17:19:00",
@@ -3100,7 +3100,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549b7",
+      "_id": "574c23a21e1becf54ae9d95b",
       "trip_id": "441a",
       "arrival_time": "17:23:00",
       "departure_time": "17:23:00",
@@ -3111,7 +3111,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549b8",
+      "_id": "574c23a21e1becf54ae9d95c",
       "trip_id": "441a",
       "arrival_time": "17:27:00",
       "departure_time": "17:27:00",
@@ -3122,7 +3122,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549b9",
+      "_id": "574c23a21e1becf54ae9d95d",
       "trip_id": "441a",
       "arrival_time": "17:31:00",
       "departure_time": "17:31:00",
@@ -3133,7 +3133,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549ba",
+      "_id": "574c23a21e1becf54ae9d95e",
       "trip_id": "441a",
       "arrival_time": "17:34:00",
       "departure_time": "17:34:00",
@@ -3144,7 +3144,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549bb",
+      "_id": "574c23a21e1becf54ae9d95f",
       "trip_id": "441a",
       "arrival_time": "17:37:00",
       "departure_time": "17:37:00",
@@ -3155,7 +3155,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549bc",
+      "_id": "574c23a21e1becf54ae9d960",
       "trip_id": "441a",
       "arrival_time": "17:41:00",
       "departure_time": "17:41:00",
@@ -3166,7 +3166,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549bd",
+      "_id": "574c23a21e1becf54ae9d961",
       "trip_id": "441a",
       "arrival_time": "17:45:00",
       "departure_time": "17:45:00",
@@ -3177,7 +3177,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549be",
+      "_id": "574c23a21e1becf54ae9d962",
       "trip_id": "441a",
       "arrival_time": "17:48:00",
       "departure_time": "17:48:00",
@@ -3188,7 +3188,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549bf",
+      "_id": "574c23a21e1becf54ae9d963",
       "trip_id": "441a",
       "arrival_time": "17:51:00",
       "departure_time": "17:51:00",
@@ -3199,7 +3199,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549c0",
+      "_id": "574c23a21e1becf54ae9d964",
       "trip_id": "441a",
       "arrival_time": "17:54:00",
       "departure_time": "17:54:00",
@@ -3210,7 +3210,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549c1",
+      "_id": "574c23a21e1becf54ae9d965",
       "trip_id": "441a",
       "arrival_time": "17:57:00",
       "departure_time": "17:57:00",
@@ -3221,7 +3221,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549c2",
+      "_id": "574c23a21e1becf54ae9d966",
       "trip_id": "441a",
       "arrival_time": "18:02:00",
       "departure_time": "18:02:00",
@@ -3232,7 +3232,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549c3",
+      "_id": "574c23a21e1becf54ae9d967",
       "trip_id": "441a",
       "arrival_time": "18:05:00",
       "departure_time": "18:05:00",
@@ -3243,7 +3243,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549c4",
+      "_id": "574c23a21e1becf54ae9d968",
       "trip_id": "441a",
       "arrival_time": "18:10:00",
       "departure_time": "18:10:00",
@@ -3254,7 +3254,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549c5",
+      "_id": "574c23a21e1becf54ae9d969",
       "trip_id": "441a",
       "arrival_time": "18:14:00",
       "departure_time": "18:14:00",
@@ -3265,7 +3265,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549c6",
+      "_id": "574c23a21e1becf54ae9d96a",
       "trip_id": "441a",
       "arrival_time": "18:19:00",
       "departure_time": "18:19:00",
@@ -3276,7 +3276,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549c7",
+      "_id": "574c23a21e1becf54ae9d96b",
       "trip_id": "441a",
       "arrival_time": "18:25:00",
       "departure_time": "18:25:00",
@@ -3287,7 +3287,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549c8",
+      "_id": "574c23a21e1becf54ae9d96c",
       "trip_id": "441a",
       "arrival_time": "18:30:00",
       "departure_time": "18:30:00",
@@ -3298,7 +3298,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549c9",
+      "_id": "574c23a21e1becf54ae9d96d",
       "trip_id": "441a",
       "arrival_time": "18:38:00",
       "departure_time": "18:38:00",
@@ -3311,7 +3311,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e2662450549d3",
+      "_id": "574c23a21e1becf54ae9d977",
       "trip_id": "443a",
       "arrival_time": "18:00:00",
       "departure_time": "18:00:00",
@@ -3322,7 +3322,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549d4",
+      "_id": "574c23a21e1becf54ae9d978",
       "trip_id": "443a",
       "arrival_time": "18:05:00",
       "departure_time": "18:05:00",
@@ -3333,7 +3333,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549d5",
+      "_id": "574c23a21e1becf54ae9d979",
       "trip_id": "443a",
       "arrival_time": "18:10:00",
       "departure_time": "18:10:00",
@@ -3344,7 +3344,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549d6",
+      "_id": "574c23a21e1becf54ae9d97a",
       "trip_id": "443a",
       "arrival_time": "18:14:00",
       "departure_time": "18:14:00",
@@ -3355,7 +3355,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549d7",
+      "_id": "574c23a21e1becf54ae9d97b",
       "trip_id": "443a",
       "arrival_time": "18:19:00",
       "departure_time": "18:19:00",
@@ -3366,7 +3366,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549d8",
+      "_id": "574c23a21e1becf54ae9d97c",
       "trip_id": "443a",
       "arrival_time": "18:23:00",
       "departure_time": "18:23:00",
@@ -3377,7 +3377,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549d9",
+      "_id": "574c23a21e1becf54ae9d97d",
       "trip_id": "443a",
       "arrival_time": "18:27:00",
       "departure_time": "18:27:00",
@@ -3388,7 +3388,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549da",
+      "_id": "574c23a21e1becf54ae9d97e",
       "trip_id": "443a",
       "arrival_time": "18:31:00",
       "departure_time": "18:31:00",
@@ -3399,7 +3399,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549db",
+      "_id": "574c23a21e1becf54ae9d97f",
       "trip_id": "443a",
       "arrival_time": "18:34:00",
       "departure_time": "18:34:00",
@@ -3410,7 +3410,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549dc",
+      "_id": "574c23a21e1becf54ae9d980",
       "trip_id": "443a",
       "arrival_time": "18:37:00",
       "departure_time": "18:37:00",
@@ -3421,7 +3421,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549dd",
+      "_id": "574c23a21e1becf54ae9d981",
       "trip_id": "443a",
       "arrival_time": "18:41:00",
       "departure_time": "18:41:00",
@@ -3432,7 +3432,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549de",
+      "_id": "574c23a21e1becf54ae9d982",
       "trip_id": "443a",
       "arrival_time": "18:45:00",
       "departure_time": "18:45:00",
@@ -3443,7 +3443,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549df",
+      "_id": "574c23a21e1becf54ae9d983",
       "trip_id": "443a",
       "arrival_time": "18:48:00",
       "departure_time": "18:48:00",
@@ -3454,7 +3454,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549e0",
+      "_id": "574c23a21e1becf54ae9d984",
       "trip_id": "443a",
       "arrival_time": "18:51:00",
       "departure_time": "18:51:00",
@@ -3465,7 +3465,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549e1",
+      "_id": "574c23a21e1becf54ae9d985",
       "trip_id": "443a",
       "arrival_time": "18:54:00",
       "departure_time": "18:54:00",
@@ -3476,7 +3476,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549e2",
+      "_id": "574c23a21e1becf54ae9d986",
       "trip_id": "443a",
       "arrival_time": "18:57:00",
       "departure_time": "18:57:00",
@@ -3487,7 +3487,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549e3",
+      "_id": "574c23a21e1becf54ae9d987",
       "trip_id": "443a",
       "arrival_time": "19:02:00",
       "departure_time": "19:02:00",
@@ -3498,7 +3498,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549e4",
+      "_id": "574c23a21e1becf54ae9d988",
       "trip_id": "443a",
       "arrival_time": "19:05:00",
       "departure_time": "19:05:00",
@@ -3509,7 +3509,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549e5",
+      "_id": "574c23a21e1becf54ae9d989",
       "trip_id": "443a",
       "arrival_time": "19:10:00",
       "departure_time": "19:10:00",
@@ -3520,7 +3520,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549e6",
+      "_id": "574c23a21e1becf54ae9d98a",
       "trip_id": "443a",
       "arrival_time": "19:14:00",
       "departure_time": "19:14:00",
@@ -3531,7 +3531,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549e7",
+      "_id": "574c23a21e1becf54ae9d98b",
       "trip_id": "443a",
       "arrival_time": "19:19:00",
       "departure_time": "19:19:00",
@@ -3542,7 +3542,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549e8",
+      "_id": "574c23a21e1becf54ae9d98c",
       "trip_id": "443a",
       "arrival_time": "19:25:00",
       "departure_time": "19:25:00",
@@ -3553,7 +3553,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549e9",
+      "_id": "574c23a21e1becf54ae9d98d",
       "trip_id": "443a",
       "arrival_time": "19:30:00",
       "departure_time": "19:30:00",
@@ -3564,7 +3564,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549ea",
+      "_id": "574c23a21e1becf54ae9d98e",
       "trip_id": "443a",
       "arrival_time": "19:38:00",
       "departure_time": "19:38:00",
@@ -3577,7 +3577,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e2662450549eb",
+      "_id": "574c23a21e1becf54ae9d98f",
       "trip_id": "445a",
       "arrival_time": "19:00:00",
       "departure_time": "19:00:00",
@@ -3588,7 +3588,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549ec",
+      "_id": "574c23a21e1becf54ae9d990",
       "trip_id": "445a",
       "arrival_time": "19:05:00",
       "departure_time": "19:05:00",
@@ -3599,7 +3599,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549ed",
+      "_id": "574c23a21e1becf54ae9d991",
       "trip_id": "445a",
       "arrival_time": "19:10:00",
       "departure_time": "19:10:00",
@@ -3610,7 +3610,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549ee",
+      "_id": "574c23a21e1becf54ae9d992",
       "trip_id": "445a",
       "arrival_time": "19:14:00",
       "departure_time": "19:14:00",
@@ -3621,7 +3621,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549ef",
+      "_id": "574c23a21e1becf54ae9d993",
       "trip_id": "445a",
       "arrival_time": "19:19:00",
       "departure_time": "19:19:00",
@@ -3632,7 +3632,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549f0",
+      "_id": "574c23a21e1becf54ae9d994",
       "trip_id": "445a",
       "arrival_time": "19:23:00",
       "departure_time": "19:23:00",
@@ -3643,7 +3643,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549f1",
+      "_id": "574c23a21e1becf54ae9d995",
       "trip_id": "445a",
       "arrival_time": "19:27:00",
       "departure_time": "19:27:00",
@@ -3654,7 +3654,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549f2",
+      "_id": "574c23a21e1becf54ae9d996",
       "trip_id": "445a",
       "arrival_time": "19:31:00",
       "departure_time": "19:31:00",
@@ -3665,7 +3665,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549f3",
+      "_id": "574c23a21e1becf54ae9d997",
       "trip_id": "445a",
       "arrival_time": "19:34:00",
       "departure_time": "19:34:00",
@@ -3676,7 +3676,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549f4",
+      "_id": "574c23a21e1becf54ae9d998",
       "trip_id": "445a",
       "arrival_time": "19:37:00",
       "departure_time": "19:37:00",
@@ -3687,7 +3687,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549f5",
+      "_id": "574c23a21e1becf54ae9d999",
       "trip_id": "445a",
       "arrival_time": "19:41:00",
       "departure_time": "19:41:00",
@@ -3698,7 +3698,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549f6",
+      "_id": "574c23a21e1becf54ae9d99a",
       "trip_id": "445a",
       "arrival_time": "19:45:00",
       "departure_time": "19:45:00",
@@ -3709,7 +3709,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549f7",
+      "_id": "574c23a21e1becf54ae9d99b",
       "trip_id": "445a",
       "arrival_time": "19:48:00",
       "departure_time": "19:48:00",
@@ -3720,7 +3720,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549f8",
+      "_id": "574c23a21e1becf54ae9d99c",
       "trip_id": "445a",
       "arrival_time": "19:51:00",
       "departure_time": "19:51:00",
@@ -3731,7 +3731,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549f9",
+      "_id": "574c23a21e1becf54ae9d99d",
       "trip_id": "445a",
       "arrival_time": "19:54:00",
       "departure_time": "19:54:00",
@@ -3742,7 +3742,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549fa",
+      "_id": "574c23a21e1becf54ae9d99e",
       "trip_id": "445a",
       "arrival_time": "19:57:00",
       "departure_time": "19:57:00",
@@ -3753,7 +3753,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549fb",
+      "_id": "574c23a21e1becf54ae9d99f",
       "trip_id": "445a",
       "arrival_time": "20:02:00",
       "departure_time": "20:02:00",
@@ -3764,7 +3764,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549fc",
+      "_id": "574c23a21e1becf54ae9d9a0",
       "trip_id": "445a",
       "arrival_time": "20:05:00",
       "departure_time": "20:05:00",
@@ -3775,7 +3775,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549fd",
+      "_id": "574c23a21e1becf54ae9d9a1",
       "trip_id": "445a",
       "arrival_time": "20:10:00",
       "departure_time": "20:10:00",
@@ -3786,7 +3786,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549fe",
+      "_id": "574c23a21e1becf54ae9d9a2",
       "trip_id": "445a",
       "arrival_time": "20:14:00",
       "departure_time": "20:14:00",
@@ -3797,7 +3797,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549ff",
+      "_id": "574c23a21e1becf54ae9d9a3",
       "trip_id": "445a",
       "arrival_time": "20:19:00",
       "departure_time": "20:19:00",
@@ -3808,7 +3808,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a00",
+      "_id": "574c23a21e1becf54ae9d9a4",
       "trip_id": "445a",
       "arrival_time": "20:25:00",
       "departure_time": "20:25:00",
@@ -3819,7 +3819,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a01",
+      "_id": "574c23a21e1becf54ae9d9a5",
       "trip_id": "445a",
       "arrival_time": "20:30:00",
       "departure_time": "20:30:00",
@@ -3830,7 +3830,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a02",
+      "_id": "574c23a21e1becf54ae9d9a6",
       "trip_id": "445a",
       "arrival_time": "20:38:00",
       "departure_time": "20:38:00",
@@ -3843,7 +3843,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e266245054a03",
+      "_id": "574c23a21e1becf54ae9d9a7",
       "trip_id": "447a",
       "arrival_time": "20:00:00",
       "departure_time": "20:00:00",
@@ -3854,7 +3854,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a04",
+      "_id": "574c23a21e1becf54ae9d9a8",
       "trip_id": "447a",
       "arrival_time": "20:05:00",
       "departure_time": "20:05:00",
@@ -3865,7 +3865,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a05",
+      "_id": "574c23a21e1becf54ae9d9a9",
       "trip_id": "447a",
       "arrival_time": "20:10:00",
       "departure_time": "20:10:00",
@@ -3876,7 +3876,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a06",
+      "_id": "574c23a21e1becf54ae9d9aa",
       "trip_id": "447a",
       "arrival_time": "20:14:00",
       "departure_time": "20:14:00",
@@ -3887,7 +3887,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a07",
+      "_id": "574c23a21e1becf54ae9d9ab",
       "trip_id": "447a",
       "arrival_time": "20:19:00",
       "departure_time": "20:19:00",
@@ -3898,7 +3898,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a08",
+      "_id": "574c23a21e1becf54ae9d9ac",
       "trip_id": "447a",
       "arrival_time": "20:23:00",
       "departure_time": "20:23:00",
@@ -3909,7 +3909,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a09",
+      "_id": "574c23a21e1becf54ae9d9ad",
       "trip_id": "447a",
       "arrival_time": "20:27:00",
       "departure_time": "20:27:00",
@@ -3920,7 +3920,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a0a",
+      "_id": "574c23a21e1becf54ae9d9ae",
       "trip_id": "447a",
       "arrival_time": "20:31:00",
       "departure_time": "20:31:00",
@@ -3931,7 +3931,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a0b",
+      "_id": "574c23a21e1becf54ae9d9af",
       "trip_id": "447a",
       "arrival_time": "20:34:00",
       "departure_time": "20:34:00",
@@ -3942,7 +3942,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a0c",
+      "_id": "574c23a21e1becf54ae9d9b0",
       "trip_id": "447a",
       "arrival_time": "20:37:00",
       "departure_time": "20:37:00",
@@ -3953,7 +3953,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a0d",
+      "_id": "574c23a21e1becf54ae9d9b1",
       "trip_id": "447a",
       "arrival_time": "20:41:00",
       "departure_time": "20:41:00",
@@ -3964,7 +3964,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a0e",
+      "_id": "574c23a21e1becf54ae9d9b2",
       "trip_id": "447a",
       "arrival_time": "20:45:00",
       "departure_time": "20:45:00",
@@ -3975,7 +3975,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a0f",
+      "_id": "574c23a21e1becf54ae9d9b3",
       "trip_id": "447a",
       "arrival_time": "20:48:00",
       "departure_time": "20:48:00",
@@ -3986,7 +3986,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a10",
+      "_id": "574c23a21e1becf54ae9d9b4",
       "trip_id": "447a",
       "arrival_time": "20:51:00",
       "departure_time": "20:51:00",
@@ -3997,7 +3997,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a11",
+      "_id": "574c23a21e1becf54ae9d9b5",
       "trip_id": "447a",
       "arrival_time": "20:54:00",
       "departure_time": "20:54:00",
@@ -4008,7 +4008,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a12",
+      "_id": "574c23a21e1becf54ae9d9b6",
       "trip_id": "447a",
       "arrival_time": "20:57:00",
       "departure_time": "20:57:00",
@@ -4019,7 +4019,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a13",
+      "_id": "574c23a21e1becf54ae9d9b7",
       "trip_id": "447a",
       "arrival_time": "21:02:00",
       "departure_time": "21:02:00",
@@ -4030,7 +4030,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a14",
+      "_id": "574c23a21e1becf54ae9d9b8",
       "trip_id": "447a",
       "arrival_time": "21:05:00",
       "departure_time": "21:05:00",
@@ -4041,7 +4041,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a15",
+      "_id": "574c23a21e1becf54ae9d9b9",
       "trip_id": "447a",
       "arrival_time": "21:10:00",
       "departure_time": "21:10:00",
@@ -4052,7 +4052,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a16",
+      "_id": "574c23a21e1becf54ae9d9ba",
       "trip_id": "447a",
       "arrival_time": "21:14:00",
       "departure_time": "21:14:00",
@@ -4063,7 +4063,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a17",
+      "_id": "574c23a21e1becf54ae9d9bb",
       "trip_id": "447a",
       "arrival_time": "21:19:00",
       "departure_time": "21:19:00",
@@ -4074,7 +4074,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a18",
+      "_id": "574c23a21e1becf54ae9d9bc",
       "trip_id": "447a",
       "arrival_time": "21:25:00",
       "departure_time": "21:25:00",
@@ -4085,7 +4085,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a19",
+      "_id": "574c23a21e1becf54ae9d9bd",
       "trip_id": "447a",
       "arrival_time": "21:30:00",
       "departure_time": "21:30:00",
@@ -4096,7 +4096,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a1a",
+      "_id": "574c23a21e1becf54ae9d9be",
       "trip_id": "447a",
       "arrival_time": "21:38:00",
       "departure_time": "21:38:00",
@@ -4109,7 +4109,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e266245054a1b",
+      "_id": "574c23a21e1becf54ae9d9bf",
       "trip_id": "449a",
       "arrival_time": "21:00:00",
       "departure_time": "21:00:00",
@@ -4120,7 +4120,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a1c",
+      "_id": "574c23a21e1becf54ae9d9c0",
       "trip_id": "449a",
       "arrival_time": "21:05:00",
       "departure_time": "21:05:00",
@@ -4131,7 +4131,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a1d",
+      "_id": "574c23a21e1becf54ae9d9c1",
       "trip_id": "449a",
       "arrival_time": "21:10:00",
       "departure_time": "21:10:00",
@@ -4142,7 +4142,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a1e",
+      "_id": "574c23a21e1becf54ae9d9c2",
       "trip_id": "449a",
       "arrival_time": "21:14:00",
       "departure_time": "21:14:00",
@@ -4153,7 +4153,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a1f",
+      "_id": "574c23a21e1becf54ae9d9c3",
       "trip_id": "449a",
       "arrival_time": "21:19:00",
       "departure_time": "21:19:00",
@@ -4164,7 +4164,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a20",
+      "_id": "574c23a21e1becf54ae9d9c4",
       "trip_id": "449a",
       "arrival_time": "21:23:00",
       "departure_time": "21:23:00",
@@ -4175,7 +4175,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a21",
+      "_id": "574c23a21e1becf54ae9d9c5",
       "trip_id": "449a",
       "arrival_time": "21:27:00",
       "departure_time": "21:27:00",
@@ -4186,7 +4186,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a22",
+      "_id": "574c23a21e1becf54ae9d9c6",
       "trip_id": "449a",
       "arrival_time": "21:31:00",
       "departure_time": "21:31:00",
@@ -4197,7 +4197,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a23",
+      "_id": "574c23a21e1becf54ae9d9c7",
       "trip_id": "449a",
       "arrival_time": "21:34:00",
       "departure_time": "21:34:00",
@@ -4208,7 +4208,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a24",
+      "_id": "574c23a21e1becf54ae9d9c8",
       "trip_id": "449a",
       "arrival_time": "21:37:00",
       "departure_time": "21:37:00",
@@ -4219,7 +4219,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a25",
+      "_id": "574c23a21e1becf54ae9d9c9",
       "trip_id": "449a",
       "arrival_time": "21:41:00",
       "departure_time": "21:41:00",
@@ -4230,7 +4230,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a26",
+      "_id": "574c23a21e1becf54ae9d9ca",
       "trip_id": "449a",
       "arrival_time": "21:45:00",
       "departure_time": "21:45:00",
@@ -4241,7 +4241,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a27",
+      "_id": "574c23a21e1becf54ae9d9cb",
       "trip_id": "449a",
       "arrival_time": "21:48:00",
       "departure_time": "21:48:00",
@@ -4252,7 +4252,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a28",
+      "_id": "574c23a21e1becf54ae9d9cc",
       "trip_id": "449a",
       "arrival_time": "21:51:00",
       "departure_time": "21:51:00",
@@ -4263,7 +4263,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a29",
+      "_id": "574c23a21e1becf54ae9d9cd",
       "trip_id": "449a",
       "arrival_time": "21:54:00",
       "departure_time": "21:54:00",
@@ -4274,7 +4274,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a2a",
+      "_id": "574c23a21e1becf54ae9d9ce",
       "trip_id": "449a",
       "arrival_time": "21:57:00",
       "departure_time": "21:57:00",
@@ -4285,7 +4285,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a2b",
+      "_id": "574c23a21e1becf54ae9d9cf",
       "trip_id": "449a",
       "arrival_time": "22:02:00",
       "departure_time": "22:02:00",
@@ -4296,7 +4296,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a2c",
+      "_id": "574c23a21e1becf54ae9d9d0",
       "trip_id": "449a",
       "arrival_time": "22:05:00",
       "departure_time": "22:05:00",
@@ -4307,7 +4307,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a2d",
+      "_id": "574c23a21e1becf54ae9d9d1",
       "trip_id": "449a",
       "arrival_time": "22:10:00",
       "departure_time": "22:10:00",
@@ -4318,7 +4318,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a2e",
+      "_id": "574c23a21e1becf54ae9d9d2",
       "trip_id": "449a",
       "arrival_time": "22:14:00",
       "departure_time": "22:14:00",
@@ -4329,7 +4329,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a2f",
+      "_id": "574c23a21e1becf54ae9d9d3",
       "trip_id": "449a",
       "arrival_time": "22:19:00",
       "departure_time": "22:19:00",
@@ -4340,7 +4340,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a30",
+      "_id": "574c23a21e1becf54ae9d9d4",
       "trip_id": "449a",
       "arrival_time": "22:25:00",
       "departure_time": "22:25:00",
@@ -4351,7 +4351,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a31",
+      "_id": "574c23a21e1becf54ae9d9d5",
       "trip_id": "449a",
       "arrival_time": "22:30:00",
       "departure_time": "22:30:00",
@@ -4362,7 +4362,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a32",
+      "_id": "574c23a21e1becf54ae9d9d6",
       "trip_id": "449a",
       "arrival_time": "22:38:00",
       "departure_time": "22:38:00",
@@ -4375,7 +4375,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e266245054a33",
+      "_id": "574c23a21e1becf54ae9d9d7",
       "trip_id": "451a",
       "arrival_time": "22:30:00",
       "departure_time": "22:30:00",
@@ -4386,7 +4386,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a34",
+      "_id": "574c23a21e1becf54ae9d9d8",
       "trip_id": "451a",
       "arrival_time": "22:35:00",
       "departure_time": "22:35:00",
@@ -4397,7 +4397,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a35",
+      "_id": "574c23a21e1becf54ae9d9d9",
       "trip_id": "451a",
       "arrival_time": "22:40:00",
       "departure_time": "22:40:00",
@@ -4408,7 +4408,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a36",
+      "_id": "574c23a21e1becf54ae9d9da",
       "trip_id": "451a",
       "arrival_time": "22:44:00",
       "departure_time": "22:44:00",
@@ -4419,7 +4419,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a37",
+      "_id": "574c23a21e1becf54ae9d9db",
       "trip_id": "451a",
       "arrival_time": "22:49:00",
       "departure_time": "22:49:00",
@@ -4430,7 +4430,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a38",
+      "_id": "574c23a21e1becf54ae9d9dc",
       "trip_id": "451a",
       "arrival_time": "22:53:00",
       "departure_time": "22:53:00",
@@ -4441,7 +4441,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a39",
+      "_id": "574c23a21e1becf54ae9d9dd",
       "trip_id": "451a",
       "arrival_time": "22:57:00",
       "departure_time": "22:57:00",
@@ -4452,7 +4452,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a3a",
+      "_id": "574c23a21e1becf54ae9d9de",
       "trip_id": "451a",
       "arrival_time": "23:01:00",
       "departure_time": "23:01:00",
@@ -4463,7 +4463,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a3b",
+      "_id": "574c23a21e1becf54ae9d9df",
       "trip_id": "451a",
       "arrival_time": "23:04:00",
       "departure_time": "23:04:00",
@@ -4474,7 +4474,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a3c",
+      "_id": "574c23a21e1becf54ae9d9e0",
       "trip_id": "451a",
       "arrival_time": "23:07:00",
       "departure_time": "23:07:00",
@@ -4485,7 +4485,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a3d",
+      "_id": "574c23a21e1becf54ae9d9e1",
       "trip_id": "451a",
       "arrival_time": "23:11:00",
       "departure_time": "23:11:00",
@@ -4496,7 +4496,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a3e",
+      "_id": "574c23a21e1becf54ae9d9e2",
       "trip_id": "451a",
       "arrival_time": "23:15:00",
       "departure_time": "23:15:00",
@@ -4507,7 +4507,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a3f",
+      "_id": "574c23a21e1becf54ae9d9e3",
       "trip_id": "451a",
       "arrival_time": "23:18:00",
       "departure_time": "23:18:00",
@@ -4518,7 +4518,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a40",
+      "_id": "574c23a21e1becf54ae9d9e4",
       "trip_id": "451a",
       "arrival_time": "23:21:00",
       "departure_time": "23:21:00",
@@ -4529,7 +4529,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a41",
+      "_id": "574c23a21e1becf54ae9d9e5",
       "trip_id": "451a",
       "arrival_time": "23:24:00",
       "departure_time": "23:24:00",
@@ -4540,7 +4540,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a42",
+      "_id": "574c23a21e1becf54ae9d9e6",
       "trip_id": "451a",
       "arrival_time": "23:27:00",
       "departure_time": "23:27:00",
@@ -4551,7 +4551,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a43",
+      "_id": "574c23a21e1becf54ae9d9e7",
       "trip_id": "451a",
       "arrival_time": "23:32:00",
       "departure_time": "23:32:00",
@@ -4562,7 +4562,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a44",
+      "_id": "574c23a21e1becf54ae9d9e8",
       "trip_id": "451a",
       "arrival_time": "23:35:00",
       "departure_time": "23:35:00",
@@ -4573,7 +4573,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a45",
+      "_id": "574c23a21e1becf54ae9d9e9",
       "trip_id": "451a",
       "arrival_time": "23:40:00",
       "departure_time": "23:40:00",
@@ -4584,7 +4584,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a46",
+      "_id": "574c23a21e1becf54ae9d9ea",
       "trip_id": "451a",
       "arrival_time": "23:44:00",
       "departure_time": "23:44:00",
@@ -4595,7 +4595,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a47",
+      "_id": "574c23a21e1becf54ae9d9eb",
       "trip_id": "451a",
       "arrival_time": "23:49:00",
       "departure_time": "23:49:00",
@@ -4606,7 +4606,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a48",
+      "_id": "574c23a21e1becf54ae9d9ec",
       "trip_id": "451a",
       "arrival_time": "23:55:00",
       "departure_time": "23:55:00",
@@ -4617,7 +4617,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a49",
+      "_id": "574c23a21e1becf54ae9d9ed",
       "trip_id": "451a",
       "arrival_time": "24:00:00",
       "departure_time": "24:00:00",
@@ -4628,7 +4628,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054a4a",
+      "_id": "574c23a21e1becf54ae9d9ee",
       "trip_id": "451a",
       "arrival_time": "24:08:00",
       "departure_time": "24:08:00",
@@ -4641,7 +4641,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e266245054919",
+      "_id": "574c23a21e1becf54ae9d8bd",
       "trip_id": "801a",
       "arrival_time": "10:35:00",
       "departure_time": "10:35:00",
@@ -4652,7 +4652,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505491a",
+      "_id": "574c23a21e1becf54ae9d8be",
       "trip_id": "801a",
       "arrival_time": "10:45:00",
       "departure_time": "10:45:00",
@@ -4663,7 +4663,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505491b",
+      "_id": "574c23a21e1becf54ae9d8bf",
       "trip_id": "801a",
       "arrival_time": "10:50:00",
       "departure_time": "10:50:00",
@@ -4674,7 +4674,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505491c",
+      "_id": "574c23a21e1becf54ae9d8c0",
       "trip_id": "801a",
       "arrival_time": "10:58:00",
       "departure_time": "10:58:00",
@@ -4685,7 +4685,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505491d",
+      "_id": "574c23a21e1becf54ae9d8c1",
       "trip_id": "801a",
       "arrival_time": "11:04:00",
       "departure_time": "11:04:00",
@@ -4696,7 +4696,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505491e",
+      "_id": "574c23a21e1becf54ae9d8c2",
       "trip_id": "801a",
       "arrival_time": "11:10:00",
       "departure_time": "11:10:00",
@@ -4707,7 +4707,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e26624505491f",
+      "_id": "574c23a21e1becf54ae9d8c3",
       "trip_id": "801a",
       "arrival_time": "11:14:00",
       "departure_time": "11:14:00",
@@ -4718,7 +4718,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054920",
+      "_id": "574c23a21e1becf54ae9d8c4",
       "trip_id": "801a",
       "arrival_time": "11:23:00",
       "departure_time": "11:23:00",
@@ -4729,7 +4729,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e266245054921",
+      "_id": "574c23a21e1becf54ae9d8c5",
       "trip_id": "801a",
       "arrival_time": "11:41:00",
       "departure_time": "11:41:00",
@@ -4742,7 +4742,7 @@
   ],
   [
     {
-      "_id": "574c0966b47e2662450549ca",
+      "_id": "574c23a21e1becf54ae9d96e",
       "trip_id": "803a",
       "arrival_time": "17:35:00",
       "departure_time": "17:35:00",
@@ -4753,7 +4753,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549cb",
+      "_id": "574c23a21e1becf54ae9d96f",
       "trip_id": "803a",
       "arrival_time": "17:45:00",
       "departure_time": "17:45:00",
@@ -4764,7 +4764,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549cc",
+      "_id": "574c23a21e1becf54ae9d970",
       "trip_id": "803a",
       "arrival_time": "17:50:00",
       "departure_time": "17:50:00",
@@ -4775,7 +4775,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549cd",
+      "_id": "574c23a21e1becf54ae9d971",
       "trip_id": "803a",
       "arrival_time": "17:58:00",
       "departure_time": "17:58:00",
@@ -4786,7 +4786,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549ce",
+      "_id": "574c23a21e1becf54ae9d972",
       "trip_id": "803a",
       "arrival_time": "18:04:00",
       "departure_time": "18:04:00",
@@ -4797,7 +4797,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549cf",
+      "_id": "574c23a21e1becf54ae9d973",
       "trip_id": "803a",
       "arrival_time": "18:10:00",
       "departure_time": "18:10:00",
@@ -4808,7 +4808,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549d0",
+      "_id": "574c23a21e1becf54ae9d974",
       "trip_id": "803a",
       "arrival_time": "18:14:00",
       "departure_time": "18:14:00",
@@ -4819,7 +4819,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549d1",
+      "_id": "574c23a21e1becf54ae9d975",
       "trip_id": "803a",
       "arrival_time": "18:23:00",
       "departure_time": "18:23:00",
@@ -4830,7 +4830,7 @@
       "agency_key": "caltrain-agency-key"
     },
     {
-      "_id": "574c0966b47e2662450549d2",
+      "_id": "574c23a21e1becf54ae9d976",
       "trip_id": "803a",
       "arrival_time": "18:41:00",
       "departure_time": "18:41:00",

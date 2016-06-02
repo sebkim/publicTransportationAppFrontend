@@ -1,6 +1,6 @@
 [
   {
-    "_id": "574c0966b47e2662450554dd",
+    "_id": "574c23a21e1becf54ae9e481",
     "stop_id": "777403",
     "stop_code": "777403",
     "stop_name": "Tamien Caltrain Station",
@@ -19,7 +19,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554dc",
+    "_id": "574c23a21e1becf54ae9e480",
     "stop_id": "777402",
     "stop_code": "777402",
     "stop_name": "San Jose Caltrain Station",
@@ -38,7 +38,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554ce",
+    "_id": "574c23a21e1becf54ae9e472",
     "stop_id": "70261",
     "stop_code": "70261",
     "stop_name": "San Jose Diridon Caltrain",
@@ -57,7 +57,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554ca",
+    "_id": "574c23a21e1becf54ae9e46e",
     "stop_id": "70241",
     "stop_code": "70241",
     "stop_name": "Santa Clara Caltrain",
@@ -76,7 +76,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554c8",
+    "_id": "574c23a21e1becf54ae9e46c",
     "stop_id": "70231",
     "stop_code": "70231",
     "stop_name": "Lawrence Caltrain",
@@ -95,7 +95,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554c6",
+    "_id": "574c23a21e1becf54ae9e46a",
     "stop_id": "70221",
     "stop_code": "70221",
     "stop_name": "Sunnyvale Caltrain",
@@ -114,7 +114,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554c4",
+    "_id": "574c23a21e1becf54ae9e468",
     "stop_id": "70211",
     "stop_code": "70211",
     "stop_name": "Mt View Caltrain",
@@ -133,7 +133,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554c2",
+    "_id": "574c23a21e1becf54ae9e466",
     "stop_id": "70201",
     "stop_code": "70201",
     "stop_name": "San Antonio Caltrain",
@@ -152,7 +152,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554c0",
+    "_id": "574c23a21e1becf54ae9e464",
     "stop_id": "70191",
     "stop_code": "70191",
     "stop_name": "California Ave Caltrain",
@@ -171,7 +171,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554be",
+    "_id": "574c23a21e1becf54ae9e462",
     "stop_id": "70171",
     "stop_code": "70171",
     "stop_name": "Palo Alto Caltrain",
@@ -190,7 +190,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554bc",
+    "_id": "574c23a21e1becf54ae9e460",
     "stop_id": "70161",
     "stop_code": "70161",
     "stop_name": "Menlo Park Caltrain",
@@ -209,7 +209,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554ba",
+    "_id": "574c23a21e1becf54ae9e45e",
     "stop_id": "70151",
     "stop_code": "70151",
     "stop_name": "Atherton Caltrain",
@@ -228,7 +228,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554b8",
+    "_id": "574c23a21e1becf54ae9e45c",
     "stop_id": "70141",
     "stop_code": "70141",
     "stop_name": "Redwood City Caltrain",
@@ -247,7 +247,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554b6",
+    "_id": "574c23a21e1becf54ae9e45a",
     "stop_id": "70131",
     "stop_code": "70131",
     "stop_name": "San Carlos Caltrain",
@@ -266,7 +266,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554b4",
+    "_id": "574c23a21e1becf54ae9e458",
     "stop_id": "70121",
     "stop_code": "70121",
     "stop_name": "Belmont Caltrain",
@@ -285,7 +285,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554b2",
+    "_id": "574c23a21e1becf54ae9e456",
     "stop_id": "70111",
     "stop_code": "70111",
     "stop_name": "Hillsdale Caltrain",
@@ -304,7 +304,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554b0",
+    "_id": "574c23a21e1becf54ae9e454",
     "stop_id": "70101",
     "stop_code": "70101",
     "stop_name": "Hayward Park Caltrain",
@@ -323,7 +323,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554ae",
+    "_id": "574c23a21e1becf54ae9e452",
     "stop_id": "70091",
     "stop_code": "70091",
     "stop_name": "San Mateo Caltrain",
@@ -342,7 +342,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554ac",
+    "_id": "574c23a21e1becf54ae9e450",
     "stop_id": "70081",
     "stop_code": "70081",
     "stop_name": "Burlingame Caltrain",
@@ -361,7 +361,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554aa",
+    "_id": "574c23a21e1becf54ae9e44e",
     "stop_id": "70071",
     "stop_code": "70071",
     "stop_name": "Broadway Caltrain",
@@ -380,7 +380,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554a8",
+    "_id": "574c23a21e1becf54ae9e44c",
     "stop_id": "70061",
     "stop_code": "70061",
     "stop_name": "Millbrae Caltrain",
@@ -399,7 +399,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554a6",
+    "_id": "574c23a21e1becf54ae9e44a",
     "stop_id": "70051",
     "stop_code": "70051",
     "stop_name": "San Bruno Caltrain",
@@ -418,7 +418,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554a4",
+    "_id": "574c23a21e1becf54ae9e448",
     "stop_id": "70041",
     "stop_code": "70041",
     "stop_name": "So. San Francisco Caltrain Station",
@@ -437,7 +437,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554a2",
+    "_id": "574c23a21e1becf54ae9e446",
     "stop_id": "70031",
     "stop_code": "70031",
     "stop_name": "Bayshore Caltrain",
@@ -456,7 +456,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554a0",
+    "_id": "574c23a21e1becf54ae9e444",
     "stop_id": "70021",
     "stop_code": "70021",
     "stop_name": "22nd St Caltrain",
@@ -475,7 +475,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e26624505549e",
+    "_id": "574c23a21e1becf54ae9e442",
     "stop_id": "70011",
     "stop_code": "70011",
     "stop_name": "San Francisco Caltrain",
@@ -494,7 +494,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554da",
+    "_id": "574c23a21e1becf54ae9e47e",
     "stop_id": "70321",
     "stop_code": "70321",
     "stop_name": "Gilroy Caltrain",
@@ -513,7 +513,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554d8",
+    "_id": "574c23a21e1becf54ae9e47c",
     "stop_id": "70311",
     "stop_code": "70311",
     "stop_name": "San Martin Caltrain",
@@ -532,7 +532,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554d6",
+    "_id": "574c23a21e1becf54ae9e47a",
     "stop_id": "70301",
     "stop_code": "70301",
     "stop_name": "Morgan Hill Caltrain",
@@ -551,7 +551,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554d4",
+    "_id": "574c23a21e1becf54ae9e478",
     "stop_id": "70291",
     "stop_code": "70291",
     "stop_name": "Blossom Hill Caltrain",
@@ -570,7 +570,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554d2",
+    "_id": "574c23a21e1becf54ae9e476",
     "stop_id": "70281",
     "stop_code": "70281",
     "stop_name": "Capitol Caltrain",
@@ -589,7 +589,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554d0",
+    "_id": "574c23a21e1becf54ae9e474",
     "stop_id": "70271",
     "stop_code": "70271",
     "stop_name": "Tamien Caltrain",
@@ -608,7 +608,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554ce",
+    "_id": "574c23a21e1becf54ae9e472",
     "stop_id": "70261",
     "stop_code": "70261",
     "stop_name": "San Jose Diridon Caltrain",
@@ -627,7 +627,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554ca",
+    "_id": "574c23a21e1becf54ae9e46e",
     "stop_id": "70241",
     "stop_code": "70241",
     "stop_name": "Santa Clara Caltrain",
@@ -646,7 +646,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554c8",
+    "_id": "574c23a21e1becf54ae9e46c",
     "stop_id": "70231",
     "stop_code": "70231",
     "stop_name": "Lawrence Caltrain",
@@ -665,7 +665,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554c6",
+    "_id": "574c23a21e1becf54ae9e46a",
     "stop_id": "70221",
     "stop_code": "70221",
     "stop_name": "Sunnyvale Caltrain",
@@ -684,7 +684,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554c4",
+    "_id": "574c23a21e1becf54ae9e468",
     "stop_id": "70211",
     "stop_code": "70211",
     "stop_name": "Mt View Caltrain",
@@ -703,7 +703,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554bc",
+    "_id": "574c23a21e1becf54ae9e460",
     "stop_id": "70161",
     "stop_code": "70161",
     "stop_name": "Menlo Park Caltrain",
@@ -722,7 +722,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554b8",
+    "_id": "574c23a21e1becf54ae9e45c",
     "stop_id": "70141",
     "stop_code": "70141",
     "stop_name": "Redwood City Caltrain",
@@ -741,7 +741,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554b6",
+    "_id": "574c23a21e1becf54ae9e45a",
     "stop_id": "70131",
     "stop_code": "70131",
     "stop_name": "San Carlos Caltrain",
@@ -760,7 +760,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554b4",
+    "_id": "574c23a21e1becf54ae9e458",
     "stop_id": "70121",
     "stop_code": "70121",
     "stop_name": "Belmont Caltrain",
@@ -779,7 +779,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554b2",
+    "_id": "574c23a21e1becf54ae9e456",
     "stop_id": "70111",
     "stop_code": "70111",
     "stop_name": "Hillsdale Caltrain",
@@ -798,7 +798,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554b0",
+    "_id": "574c23a21e1becf54ae9e454",
     "stop_id": "70101",
     "stop_code": "70101",
     "stop_name": "Hayward Park Caltrain",
@@ -817,7 +817,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554ae",
+    "_id": "574c23a21e1becf54ae9e452",
     "stop_id": "70091",
     "stop_code": "70091",
     "stop_name": "San Mateo Caltrain",
@@ -836,7 +836,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554ac",
+    "_id": "574c23a21e1becf54ae9e450",
     "stop_id": "70081",
     "stop_code": "70081",
     "stop_name": "Burlingame Caltrain",
@@ -855,7 +855,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554a8",
+    "_id": "574c23a21e1becf54ae9e44c",
     "stop_id": "70061",
     "stop_code": "70061",
     "stop_name": "Millbrae Caltrain",
@@ -874,7 +874,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554a6",
+    "_id": "574c23a21e1becf54ae9e44a",
     "stop_id": "70051",
     "stop_code": "70051",
     "stop_name": "San Bruno Caltrain",
@@ -893,7 +893,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554a4",
+    "_id": "574c23a21e1becf54ae9e448",
     "stop_id": "70041",
     "stop_code": "70041",
     "stop_name": "So. San Francisco Caltrain Station",
@@ -912,7 +912,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554a2",
+    "_id": "574c23a21e1becf54ae9e446",
     "stop_id": "70031",
     "stop_code": "70031",
     "stop_name": "Bayshore Caltrain",
@@ -931,7 +931,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554a0",
+    "_id": "574c23a21e1becf54ae9e444",
     "stop_id": "70021",
     "stop_code": "70021",
     "stop_name": "22nd St Caltrain",
@@ -950,7 +950,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e26624505549e",
+    "_id": "574c23a21e1becf54ae9e442",
     "stop_id": "70011",
     "stop_code": "70011",
     "stop_name": "San Francisco Caltrain",
@@ -969,7 +969,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554ce",
+    "_id": "574c23a21e1becf54ae9e472",
     "stop_id": "70261",
     "stop_code": "70261",
     "stop_name": "San Jose Diridon Caltrain",
@@ -988,7 +988,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554c6",
+    "_id": "574c23a21e1becf54ae9e46a",
     "stop_id": "70221",
     "stop_code": "70221",
     "stop_name": "Sunnyvale Caltrain",
@@ -1007,7 +1007,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554c4",
+    "_id": "574c23a21e1becf54ae9e468",
     "stop_id": "70211",
     "stop_code": "70211",
     "stop_name": "Mt View Caltrain",
@@ -1026,7 +1026,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554be",
+    "_id": "574c23a21e1becf54ae9e462",
     "stop_id": "70171",
     "stop_code": "70171",
     "stop_name": "Palo Alto Caltrain",
@@ -1045,7 +1045,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554b8",
+    "_id": "574c23a21e1becf54ae9e45c",
     "stop_id": "70141",
     "stop_code": "70141",
     "stop_name": "Redwood City Caltrain",
@@ -1064,7 +1064,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554b2",
+    "_id": "574c23a21e1becf54ae9e456",
     "stop_id": "70111",
     "stop_code": "70111",
     "stop_name": "Hillsdale Caltrain",
@@ -1083,7 +1083,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554ae",
+    "_id": "574c23a21e1becf54ae9e452",
     "stop_id": "70091",
     "stop_code": "70091",
     "stop_name": "San Mateo Caltrain",
@@ -1102,7 +1102,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e2662450554a8",
+    "_id": "574c23a21e1becf54ae9e44c",
     "stop_id": "70061",
     "stop_code": "70061",
     "stop_name": "Millbrae Caltrain",
@@ -1121,7 +1121,7 @@
     ]
   },
   {
-    "_id": "574c0966b47e26624505549e",
+    "_id": "574c23a21e1becf54ae9e442",
     "stop_id": "70011",
     "stop_code": "70011",
     "stop_name": "San Francisco Caltrain",
